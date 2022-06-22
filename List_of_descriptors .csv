@@ -1,0 +1,140 @@
+﻿Number,Descriptor,Comment
+1,profile_1_i,sigma-profile (option “sprf”) for the i-component integrated in the range from −0.025 to ­–0.015 e/Å2 
+2,profile_2_i,sigma-profile (option “sprf”) for the i-component integrated in the range from −0.015 to ­–0.005 e/Å2
+3,profile_3_i,sigma-profile (option “sprf”) for the i-component integrated in the range from −0.005 to 0.005 e/Å2
+4,profile_4_i,sigma-profile (option “sprf”) for the i-component integrated in the range from 0.005 to ­0.015 e/Å2
+5,profile_5_i,sigma-profile (option “sprf”) for the i-component integrated in the range from 0.015 to 0.025 e/Å2
+6,potential_i,sigma-potential (option “spot”) for the i-component integrated in the range from −0.025 to 0.025 e/Å2
+7,spot_coef_1_i,coefficients of sigma-potential represented by a Taylor-series for the i-component (option “spotc”)
+8,spot_coef_2_i,coefficients of sigma-potential represented by a Taylor-series for the i-component (option “spotc”)
+9,spot_coef_3_i,coefficients of sigma-potential represented by a Taylor-series for the i-component (option “spotc”)
+10,spot_coef_4_i,coefficients of sigma-potential represented by a Taylor-series for the i-component (option “spotc”)
+11,spot_coef_5_i,coefficients of sigma-potential represented by a Taylor-series for the i-component (option “spotc”)
+12,spot_coef_6_i,coefficients of sigma-potential represented by a Taylor-series for the i-component (option “spotc”)
+13,Area_i,total area of the surface segments (option “smom”) for the i-component
+14,sig1_i,sigma-moments (option “smom”) for the i-component
+15,sig2_i,sigma-moments (option “smom”) for the i-component
+16,sig3_i,sigma-moments (option “smom”) for the i-component
+17,sig4_i,sigma-moments (option “smom”) for the i-component
+18,sig5_i,sigma-moments (option “smom”) for the i-component
+19,sig6_i,sigma-moments (option “smom”) for the i-component
+20,Hb_acc1_i,hydrogen bonding acceptor moments (option “smom”) for the i-component
+21,Hb_acc2_i,hydrogen bonding acceptor moments (option “smom”) for the i-component
+22,Hb_acc3_i,hydrogen bonding acceptor moments (option “smom”) for the i-component
+23,Hb_acc4_i,hydrogen bonding acceptor moments (option “smom”) for the i-component
+24,Hb_acc5_i,hydrogen bonding acceptor moments (option “smom”) for the i-component
+25,Hb_don1_i,hydrogen bonding donor moments (option “smom”) for the i-component
+26,Hb_don2_i,hydrogen bonding donor moments (option “smom”) for the i-component
+27,Hb_don3_i,hydrogen bonding donor moments (option “smom”) for the i-component
+28,Hb_don4_i,hydrogen bonding donor moments (option “smom”) for the i-component
+29,Hb_don5_i,hydrogen bonding donor moments (option “smom”) for the i-component
+30,Volume_i,volume enclosed by the total area of the surface segments (option “smom”) for the i-component
+31,MolWeight_i,molecular weight (option “smom”) for the i-component
+32,E_diel_i,dielectric energy (option “smom”) for the i-component
+33,av_dE_i,averaging correction to the dielectric energy (option “smom”) for the i-component
+34,E_vdw_i,van der Waals energy in continuum (option “smom”) for the i-component
+35,E_ring_i,ring correction energy (option “smom”) for the i-component
+36,mu_gas_i,standard chemical potential of the molecule in the gas phase (option “smom”) for the i-component
+37,charge_p_i,sum of positive surface charge (option “smom”) for the i-component
+38,charge_n_i,sum of negative surface charge (option “smom”) for the i-component
+39,area_p_i,area of positive surface charge (option “smom”) for the i-component
+40,area_n_i,area of negative surface charge (option “smom”) for the i-component
+41,WAPS_i,weighted average positive sigma for the i-component calculated as charge_p_1/ area_p_1
+42,WANS_i,weighted average negative sigma for the i-component calculated as charge_n_1/ area_n_1
+43,mu_i,chemical potential of the i-component calculated in the mixture with 1:1 molar ratio at the temperature of 298 K
+44,log10_i,common logarithm of the fugacity (partial vapor pressure/xi) of the i-component calculated in the mixture with 1:1 molar ratio at the temperature of 298 K
+45,FreeE_i,total free energy for the i-component calculated in the mixture with 1:1 molar ratio at the temperature of 298 K
+46,H_int_i,mean interaction enthalpy for the i-component calculated in the mixture with 1:1 molar ratio at the temperature of 298 K
+47,H_MF_i,electrostatic misfit contribution to interaction enthalpy for the i-component calculated in the mixture with 1:1 molar ratio at the temperature of 298 K
+48,H_HB_i,hydrogen bonding contribution to interaction enthalpy for the i-component calculated in the mixture with 1:1 molar ratio at the temperature of 298 K
+49,H_vdW_i,van der Waals interactions contribution to interaction enthalpy for the i-component calculated in the mixture with 1:1 molar ratio at the temperature of 298 K
+50,nHD_i,number of hydrogen bond donors (option “NumHDonors”) for the i-component
+51,nHA_i,number of hydrogen bond acceptors (option “NumHAcceptors”) for the i-component
+52,nCsp3_i,fraction of C atoms that are SP3 hybridized (option “FractionCSP3”) for the i-component
+53,nArR_i,number of aromatic rings (option “NumAromaticRings”) for the i-component
+54,nAlR_i,number of aliphatic (containing at least one non-aromatic bond) rings (option “NumAliphaticRings”) for the i-component
+55,nValE_i,number of valence electrons (option “NumValenceElectrons”) for the i-component
+56,MolLogP_i,Wildman-Crippen LogP value (option “MolLogP”) for the i-component
+57,PEOE_VSA1_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+58,PEOE_VSA2_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+59,PEOE_VSA3_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+60,PEOE_VSA4_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+61,PEOE_VSA5_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+62,PEOE_VSA6_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+63,PEOE_VSA7_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+64,PEOE_VSA8_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+65,PEOE_VSA9_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+66,PEOE_VSA10_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+67,PEOE_VSA11_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+68,PEOE_VSA12_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+69,PEOE_VSA13_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+70,PEOE_VSA14_i,"MOE-type descriptors using partial charges and surface area contributions (option “PEOE_VSAk”, where k is in [1, 14]) for the i-component"
+71,MoRSE_N_0_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+72,MoRSE_N_1_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+73,MoRSE_N_2_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+74,MoRSE_N_3_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+75,MoRSE_N_4_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+76,MoRSE_N_5_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+77,MoRSE_N_6_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+78,MoRSE_N_7_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+79,MoRSE_N_8_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+80,MoRSE_N_9_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+81,MoRSE_N_10_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+82,MoRSE_N_11_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+83,MoRSE_N_12_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+84,MoRSE_N_13_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+85,MoRSE_N_14_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+86,MoRSE_N_15_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+87,MoRSE_N_16_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+88,MoRSE_N_17_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+89,MoRSE_N_18_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+90,MoRSE_N_19_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+91,MoRSE_N_20_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+92,MoRSE_N_21_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+93,MoRSE_N_22_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+94,MoRSE_N_23_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+95,MoRSE_N_24_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+96,MoRSE_N_25_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+97,MoRSE_N_26_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+98,MoRSE_N_27_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+99,MoRSE_N_28_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+100,MoRSE_N_29_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+101,MoRSE_N_30_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+102,MoRSE_N_31_i,"3D-MoRSE descriptors for nitrogen atom (option “CalcMORSE(mol, CustomAtomProperty='N')”) for the i-component"
+103,MoRSE_O_0_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+104,MoRSE_O_1_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+105,MoRSE_O_2_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+106,MoRSE_O_3_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+107,MoRSE_O_4_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+108,MoRSE_O_5_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+109,MoRSE_O_6_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+110,MoRSE_O_7_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+111,MoRSE_O_8_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+112,MoRSE_O_9_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+113,MoRSE_O_10_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+114,MoRSE_O_11_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+115,MoRSE_O_12_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+116,MoRSE_O_13_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+117,MoRSE_O_14_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+118,MoRSE_O_15_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+119,MoRSE_O_16_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+120,MoRSE_O_17_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+121,MoRSE_O_18_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+122,MoRSE_O_19_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+123,MoRSE_O_20_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+124,MoRSE_O_21_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+125,MoRSE_O_22_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+126,MoRSE_O_23_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+127,MoRSE_O_24_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+128,MoRSE_O_25_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+129,MoRSE_O_26_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+130,MoRSE_O_27_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+131,MoRSE_O_28_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+132,MoRSE_O_29_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+133,MoRSE_O_30_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+134,MoRSE_O_31_i,"3D-MoRSE descriptors for oxygen atom (option “CalcMORSE(mol, CustomAtomProperty='O')”) for the i-component"
+135,RGyration_i,Radius of gyration (option “RadiusOfGyration”) for the i-component
+136,InertialShapeFactor_i,Inertial shape factor (option “InertialShapeFactor”) for the i-component
+137,Eccentricity_i,Molecular Eccentricity (option “Eccentricity”) for the i-component
+138,Asphericity_i,Molecular Asphericity (option “Asphericity”) for the i-component
+139,SpherocityIndex_i,Molecular Spherocity Index (option “SpherocityIndex”) for the i-component
