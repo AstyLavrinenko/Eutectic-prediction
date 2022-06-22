@@ -1,0 +1,1409 @@
+﻿Component_1,Smiles_1,H_1,T_1,Component_2,Smiles_2,H_2,T_2,T_EP,X_1
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,525.70,0.10
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,525.60,0.10
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,478.80,0.20
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,478.90,0.20
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,425.50,0.30
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,427.60,0.30
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,377.50,0.40
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,377.00,0.40
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,337.10,0.50
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,337.10,0.50
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,303.50,0.60
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,303.40,0.60
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,322.50,0.70
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,321.50,0.70
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,333.40,0.80
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,334.30,0.80
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,344.10,0.90
+[C2Mim]Cl,CCn1cc[n+](C)c1.[Cl-],8.59,350.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,343.50,0.90
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,517.40,0.10
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,517.50,0.10
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,473.60,0.20
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,473.90,0.20
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,404.00,0.30
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,403.20,0.30
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,352.00,0.40
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,351.70,0.40
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,323.50,0.50
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,323.50,0.50
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,333.70,0.60
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,333.50,0.60
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.50,0.70
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.90,0.70
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,345.50,0.80
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,346.10,0.80
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,352.60,0.90
+[C2Ohmim]Cl,C[n+]1ccn(CCO)c1.[Cl-],20.97,358.88,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,352.80,0.90
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,560.70,0.06
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,546.40,0.09
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,547.00,0.09
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,528.90,0.13
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,493.50,0.20
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,493.50,0.20
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,456.60,0.28
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,456.70,0.29
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,419.90,0.37
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,419.60,0.38
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,430.00,0.46
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,429.40,0.48
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,437.30,0.57
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,437.80,0.57
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,445.90,0.68
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,445.50,0.69
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,458.60,0.79
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,458.60,0.79
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,463.30,0.88
+[C4Mpyr]Cl,CCCC[N+]1(C)CCCC1.[Cl-],30.90,472.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,463.40,0.88
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,543.60,0.10
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,523.70,0.20
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,483.60,0.30
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,443.10,0.40
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,386.60,0.45
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,403.40,0.50
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,373.90,0.55
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,363.32,0.60
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,375.15,0.65
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,368.52,0.70
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,384.48,0.80
+[C4Py]Cl,CCCC[n+]1ccccc1.[Cl-],26.13,405.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,393.78,0.90
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,557.20,0.06
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,535.60,0.10
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,535.50,0.10
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,498.70,0.16
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,471.40,0.22
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,459.40,0.25
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,416.70,0.33
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,415.50,0.33
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,383.60,0.40
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,382.90,0.40
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.80,0.50
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.50,0.50
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,313.60,0.59
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,313.30,0.59
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,323.60,0.70
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,338.90,0.80
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,353.50,0.88
+[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,Urea,NC(N)=O,14.60,405.85,291.15,0.33
+[MeCh]Cl,COCC[N+](C)(C)C.[Cl-],6.72,442.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,553.10,0.10
+[MeCh]Cl,COCC[N+](C)(C)C.[Cl-],6.72,442.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,523.00,0.20
+[MeCh]Cl,COCC[N+](C)(C)C.[Cl-],6.72,442.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,491.20,0.30
+[MeCh]Cl,COCC[N+](C)(C)C.[Cl-],6.72,442.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,453.70,0.40
+[MeCh]Cl,COCC[N+](C)(C)C.[Cl-],6.72,442.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,411.70,0.50
+[MeCh]Cl,COCC[N+](C)(C)C.[Cl-],6.72,442.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,416.40,0.60
+[MeCh]Cl,COCC[N+](C)(C)C.[Cl-],6.72,442.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,417.70,0.70
+[MeCh]Cl,COCC[N+](C)(C)C.[Cl-],6.72,442.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,433.30,0.85
+[MeCh]Cl,COCC[N+](C)(C)C.[Cl-],6.72,442.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,433.10,0.89
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,568.70,0.06
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,564.00,0.09
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,558.70,0.15
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,548.40,0.21
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,540.80,0.27
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,532.60,0.32
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,522.30,0.36
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,515.80,0.40
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,503.30,0.50
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,514.60,0.60
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,526.40,0.69
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,530.40,0.80
+[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,534.50,0.88
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,573.40,0.05
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,563.20,0.12
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,542.90,0.22
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,531.70,0.25
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,518.80,0.29
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,497.70,0.38
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,478.20,0.49
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,484.80,0.60
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,490.90,0.71
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,496.60,0.80
+[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,500.40,0.90
+[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,Malonic Acid,O=C(O)CC(=O)O,23.10,407.46,255.17,0.50
+[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,Oxalic Acid,O=C(O)C(=O)O,18.58,462.40,250.99,0.50
+[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,Suberic Acid,O=C(O)CCCCCCC(=O)O,30.20,415.30,315.90,0.70
+[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,Succinic Acid,O=C(O)CCC(=O)O,34.00,455.20,352.60,0.80
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Arginine,NC(=[NH2+])NCCC[C@H](N)C(=O)[O-],11.94,495.16,298.22,0.86
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Arginine,NC(=[NH2+])NCCC[C@H](N)C(=O)[O-],11.94,495.16,299.55,0.88
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Arginine,NC(=[NH2+])NCCC[C@H](N)C(=O)[O-],11.94,495.16,299.31,0.89
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Aspartic acid,[NH3+][C@@H](CC(=O)O)C(=O)[O-],,543.15,298.23,0.90
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Aspartic acid,[NH3+][C@@H](CC(=O)O)C(=O)[O-],,543.15,305.96,0.91
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Aspartic acid,[NH3+][C@@H](CC(=O)O)C(=O)[O-],,543.15,304.93,0.92
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,518.30,0.09
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,520.40,0.10
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,471.20,0.20
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,472.60,0.20
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,421.40,0.30
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,422.70,0.31
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,368.40,0.39
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,316.30,0.51
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,317.70,0.51
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,326.90,0.58
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,328.30,0.59
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,331.60,0.70
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,333.30,0.71
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.30,0.81
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.90,0.81
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.30,0.88
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.60,0.89
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Glutamic acid,[NH3+][C@@H](CCC(=O)O)C(=O)[O-],,472.15,303.70,0.89
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Glutamic acid,[NH3+][C@@H](CCC(=O)O)C(=O)[O-],,472.15,302.41,0.90
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Glutamic acid,[NH3+][C@@H](CCC(=O)O)C(=O)[O-],,472.15,302.01,0.91
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,L-Methionine,CSCC[C@H]([NH3+])C(=O)[O-],31.62,559.02,299.12,0.90
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,L-Methionine,CSCC[C@H]([NH3+])C(=O)[O-],31.62,559.02,297.41,0.91
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,L-Methionine,CSCC[C@H]([NH3+])C(=O)[O-],31.62,559.02,292.26,0.92
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,L-Serine,[NH3+][C@@H](CO)C(=O)[O-],,501.16,298.06,0.89
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,L-Serine,[NH3+][C@@H](CO)C(=O)[O-],,501.16,299.53,0.90
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,L-Serine,[NH3+][C@@H](CO)C(=O)[O-],,501.16,303.56,0.91
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,L-Threonine,C[C@@H](O)[C@H]([NH3+])C(=O)[O-],54.76,529.66,295.30,0.89
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,L-Threonine,C[C@@H](O)[C@H]([NH3+])C(=O)[O-],54.76,529.66,293.36,0.90
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,L-Threonine,C[C@@H](O)[C@H]([NH3+])C(=O)[O-],54.76,529.66,303.11,0.91
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,339.90,0.10
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,335.60,0.20
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,332.70,0.30
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,327.40,0.39
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,322.90,0.49
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,325.00,0.60
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,328.20,0.68
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,333.70,0.80
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,337.40,0.90
+[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,Urea,NC(N)=O,14.60,405.85,300.29,0.80
+[N5555]Br,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],40.10,375.90,Erythritol,OC[C@H](O)[C@H](O)CO,39.30,394.70,346.64,0.43
+[N6666]Br,CCCCCC[N+](CCCCCC)(CCCCCC)CCCCCC.[Br-],11.60,370.60,Adipic Acid,O=C(O)CCCCC(=O)O,37.40,426.20,344.90,0.75
+1-(Trifluoromethyl)urea,NC(=O)NC(F)(F)F,,374.15,Ethylammonium chloride,CC[NH3+].[Cl-],5.50,381.15,293.15,0.40
+"1,1-Dimethylurea",CN(C)C(N)=O,29.60,454.20,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,392.15,0.62
+"1,3-Dimethylurea",CNC(=O)NC,13.60,379.40,[N2222]Br,CC[N+](CC)(CC)CC.[Br-],13.90,633.00,296.15,0.67
+"1,3-Dimethylurea",CNC(=O)NC,13.60,379.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,329.15,0.61
+"1,8-Cineole",CC12CCC(CC1)C(C)(C)O2,,274.65,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,260.15,0.60
+1-Methylurea,CNC(N)=O,15.90,373.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,302.15,0.67
+1-Methylurea,CNC(N)=O,15.90,373.80,Ethylammonium chloride,CC[NH3+].[Cl-],5.50,381.15,302.15,0.50
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,372.87,0.25
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,374.69,0.33
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,387.58,0.50
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,406.92,0.67
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,403.05,0.83
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,243.14,0.67
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,228.15,0.71
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Ethylammonium chloride,CC[NH3+].[Cl-],5.50,381.15,303.15,0.60
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,350.19,0.27
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,363.73,0.33
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,336.80,0.50
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,331.55,0.60
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,273.15,0.67
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,241.36,0.75
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,223.88,0.80
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,211.16,0.86
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,203.86,0.89
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,206.11,0.91
+"2,2,2-Trifluoroacetamide",NC(=O)C(F)(F)F,27.61,348.00,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,206.37,0.93
+"2,3-Xylenol",Cc1cccc(O)c1C,21.02,345.69,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,290.80,0.75
+"2,3-Xylenol",Cc1cccc(O)c1C,21.02,345.69,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,316.30,0.80
+"2,3-Xylenol",Cc1cccc(O)c1C,21.02,345.69,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,325.00,0.83
+"2,4,6-Trimethylphenol",Cc1cc(C)c(O)c(C)c1,21.41,345.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,307.06,0.67
+"3,4-Dimethylphenol",Cc1ccc(O)cc1C,18.13,334.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,273.16,0.67
+4-Hydroxybenzoic acid,O=C(O)c1ccc(O)cc1,32.50,489.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,360.15,0.33
+5-Phenylvaleric Acid,O=C(O)CCCCc1ccccc1,23.40,331.98,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,293.15,0.60
+Acetamide,CC(N)=O,15.50,354.06,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,324.16,0.67
+Acetic acid,CC(=O)O,11.71,289.85,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,254.70,0.50
+Acetic acid,CC(=O)O,11.71,289.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,393.34,0.67
+Acetylsalicylic Acid,CC(=O)Oc1ccccc1C(=O)O,29.80,414.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,206.15,0.67
+Adiphenine,CCN(CC)CCOC(=O)C(c1ccccc1)c1ccccc1,,386.65,Acetylsalicylic Acid,CC(=O)Oc1ccccc1C(=O)O,29.80,414.00,250.15,0.67
+Adiphenine,CCN(CC)CCOC(=O)C(c1ccccc1)c1ccccc1,,386.65,Urea,NC(N)=O,14.60,405.85,228.15,0.67
+Adipic Acid,O=C(O)CCCCC(=O)O,37.40,426.20,[N2222]Br,CC[N+](CC)(CC)CC.[Br-],13.90,633.00,347.86,0.51
+Adipic Acid,O=C(O)CCCCC(=O)O,37.40,426.20,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,332.00,0.48
+Adipic Acid,O=C(O)CCCCC(=O)O,37.40,426.20,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,358.15,0.50
+Arabinose,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,35.78,435.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,539.75,0.10
+Arabinose,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,35.78,435.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,492.65,0.20
+Arabinose,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,35.78,435.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,428.72,0.30
+Arabinose,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,35.78,435.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,367.68,0.40
+Arabinose,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,35.78,435.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,322.22,0.50
+Arabinose,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,35.78,435.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.52,0.61
+Arabinose,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,35.78,435.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,359.72,0.70
+Arabinose,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,35.78,435.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,381.58,0.80
+Arabinose,O[C@H]1CO[C@H](O)[C@H](O)[C@H]1O,35.78,435.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,402.78,0.90
+Benzamide,NC(=O)c1ccccc1,23.14,400.16,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,362.15,0.58
+Benzoic Acid,O=C(O)c1ccccc1,17.73,395.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,337.35,0.50
+Benzoic Acid,O=C(O)c1ccccc1,17.73,395.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,326.15,0.60
+Benzoic Acid,O=C(O)c1ccccc1,17.73,395.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,347.98,0.67
+Benzoic Acid,O=C(O)c1ccccc1,17.73,395.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,353.80,0.70
+Benzoic Acid,O=C(O)c1ccccc1,17.73,395.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,351.15,0.72
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,535.40,0.09
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,535.70,0.10
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,479.50,0.20
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,482.00,0.20
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,432.10,0.32
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,431.60,0.33
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,397.50,0.40
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,393.50,0.40
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.30,0.50
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.70,0.50
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,305.70,0.60
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,307.70,0.64
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,316.00,0.68
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,317.60,0.70
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,330.50,0.78
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,331.50,0.80
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,338.80,0.89
+Benzyldimethyl-2-hydroxyethyl-ammonium chloride,C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,345.80,0.90
+Caffeic acid,O=C(O)/C=C/c1ccc(O)c(O)c1,27.68,505.66,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.15,0.33
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,303.83,0.80
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,299.15,0.82
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,304.94,0.89
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,465.25,0.19
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,431.00,0.30
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,403.28,0.35
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,346.25,0.50
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,297.15,0.60
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,301.66,0.70
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,304.18,0.80
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,304.79,0.90
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,444.45,0.20
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,404.05,0.30
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,375.55,0.40
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,316.91,0.60
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,300.30,0.70
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,295.57,0.80
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,304.36,0.90
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,261.20,0.67
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,543.95,0.06
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,520.95,0.10
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,499.80,0.15
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,473.55,0.21
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,453.70,0.24
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,427.85,0.33
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,413.70,0.36
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,395.55,0.41
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,373.60,0.46
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,343.30,0.52
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,328.75,0.54
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,304.70,0.60
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,305.45,0.66
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,304.10,0.70
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,304.45,0.79
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,304.60,0.90
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,314.86,0.10
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,311.94,0.20
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,308.80,0.30
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,304.61,0.40
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,302.80,0.45
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,299.06,0.50
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,296.77,0.55
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,296.31,0.60
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,295.33,0.65
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,294.75,0.70
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,294.35,0.75
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,298.15,0.80
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,301.94,0.90
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,212.15,0.50
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,304.31,0.10
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,293.46,0.20
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,284.35,0.30
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,280.61,0.35
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,280.65,0.40
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,286.84,0.50
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,286.20,0.50
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,291.95,0.60
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,294.04,0.65
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,294.42,0.70
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,297.68,0.75
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,300.65,0.81
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,301.76,0.90
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,303.74,0.90
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,325.01,0.10
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,322.49,0.20
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,319.72,0.30
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,316.49,0.40
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,312.27,0.50
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,307.94,0.60
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,305.12,0.65
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,300.26,0.70
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,296.78,0.80
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,298.20,0.85
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,301.10,0.90
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,302.31,0.95
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,332.87,0.12
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,331.23,0.20
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,328.87,0.30
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,326.06,0.40
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,322.75,0.50
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,320.07,0.60
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,313.38,0.70
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,310.15,0.75
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,304.68,0.79
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,299.28,0.85
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,300.20,0.90
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,303.08,0.95
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,288.09,0.60
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Propranolol,CC(C)NCC(O)COc1cccc2ccccc12,43.42,369.15,355.95,0.21
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Propranolol,CC(C)NCC(O)COc1cccc2ccccc12,43.42,369.15,370.25,0.50
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Propranolol,CC(C)NCC(O)COc1cccc2ccccc12,43.42,369.15,288.55,0.74
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,340.66,0.10
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,338.62,0.20
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,336.62,0.30
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,334.28,0.40
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,330.81,0.50
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,327.79,0.60
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,324.43,0.70
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,317.93,0.80
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,305.78,0.90
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,301.72,0.95
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,318.01,0.10
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,314.51,0.20
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,306.47,0.30
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,301.49,0.40
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,294.95,0.45
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,287.84,0.51
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,289.87,0.55
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,292.35,0.64
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,293.36,0.70
+Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,301.25,0.90
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,298.54,0.20
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,294.98,0.30
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,291.21,0.40
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,286.84,0.50
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,280.63,0.60
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,278.36,0.70
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,281.91,0.80
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,285.96,0.90
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,313.15,0.13
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,310.15,0.17
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,307.15,0.25
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,301.15,0.33
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,299.15,0.40
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,294.15,0.50
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,290.15,0.57
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,285.15,0.67
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,282.15,0.75
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,283.15,0.80
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,284.15,0.86
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,285.15,0.90
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,301.09,0.16
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,295.81,0.20
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,285.87,0.31
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,275.80,0.39
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,265.57,0.44
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,267.57,0.47
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,268.65,0.50
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,273.22,0.60
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,277.54,0.70
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,281.42,0.80
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,284.76,0.90
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,312.05,0.20
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,302.51,0.30
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,296.95,0.40
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,284.16,0.50
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,274.98,0.59
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,275.45,0.70
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,280.16,0.80
+Caprylic Acid,CCCCCCCC(=O)O,19.80,288.20,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,285.13,0.90
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,586.90,0.10
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,563.60,0.20
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,525.70,0.31
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,497.70,0.40
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,473.40,0.50
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,493.60,0.58
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,520.00,0.69
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,541.80,0.80
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,567.50,0.90
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[NH4]Cl,[Cl-].[NH4+],10.38,632.20,598.80,0.11
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[NH4]Cl,[Cl-].[NH4+],10.38,632.20,568.60,0.20
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[NH4]Cl,[Cl-].[NH4+],10.38,632.20,537.20,0.30
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[NH4]Cl,[Cl-].[NH4+],10.38,632.20,510.00,0.38
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[NH4]Cl,[Cl-].[NH4+],10.38,632.20,473.80,0.49
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[NH4]Cl,[Cl-].[NH4+],10.38,632.20,483.60,0.59
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[NH4]Cl,[Cl-].[NH4+],10.38,632.20,503.80,0.70
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[NH4]Cl,[Cl-].[NH4+],10.38,632.20,513.60,0.76
+ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,[NH4]Cl,[Cl-].[NH4+],10.38,632.20,539.90,0.88
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,557.85,0.05
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,512.35,0.10
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,478.98,0.15
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,431.68,0.20
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,387.12,0.25
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,343.55,0.31
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,348.98,0.40
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,356.75,0.45
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,364.05,0.50
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,370.98,0.55
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,379.48,0.60
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,384.02,0.65
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,393.48,0.70
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,397.98,0.75
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,404.48,0.80
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,411.35,0.85
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,418.28,0.90
+Citric Acid,O=C(O)CC(O)(CC(=O)O)C(=O)O,41.84,428.56,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,423.15,0.94
+Cyclohexanecarboxylic Acid,O=C(O)C1CCCCC1,10.69,299.40,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,265.00,0.50
+Cyclohexylpropionic Acid,O=C(O)CCC1CCCCC1,16.96,291.30,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,308.18,0.10
+Cyclohexylpropionic Acid,O=C(O)CCC1CCCCC1,16.96,291.30,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,298.90,0.20
+Cyclohexylpropionic Acid,O=C(O)CCC1CCCCC1,16.96,291.30,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,289.19,0.30
+Cyclohexylpropionic Acid,O=C(O)CCC1CCCCC1,16.96,291.30,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,275.46,0.40
+Cyclohexylpropionic Acid,O=C(O)CCC1CCCCC1,16.96,291.30,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,262.12,0.50
+Cyclohexylpropionic Acid,O=C(O)CCC1CCCCC1,16.96,291.30,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,273.43,0.70
+Cyclohexylpropionic Acid,O=C(O)CCC1CCCCC1,16.96,291.30,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,278.69,0.80
+Cyclohexylpropionic Acid,O=C(O)CCC1CCCCC1,16.96,291.30,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,283.54,0.90
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,549.50,0.10
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,512.20,0.20
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,494.30,0.30
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,468.40,0.40
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,448.60,0.50
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,413.40,0.60
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,384.00,0.70
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,393.80,0.80
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,415.90,0.90
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,516.90,0.10
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,468.30,0.20
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,416.70,0.30
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,372.30,0.40
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,328.70,0.50
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.40,0.61
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,368.90,0.70
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,394.20,0.80
+DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,429.60,0.90
+D-Mannitol,OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,52.23,440.66,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,385.15,0.50
+Erythritol,OC[C@H](O)[C@H](O)CO,39.30,394.70,[N2222]Br,CC[N+](CC)(CC)CC.[Br-],13.90,633.00,346.10,0.55
+Erythritol,OC[C@H](O)[C@H](O)CO,39.30,394.70,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,340.69,0.40
+Erythritol,OC[C@H](O)[C@H](O)CO,39.30,394.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,273.15,0.33
+Erythritol,OC[C@H](O)[C@H](O)CO,39.30,394.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,263.15,0.40
+Erythritol,OC[C@H](O)[C@H](O)CO,39.30,394.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,257.15,0.50
+Erythritol,OC[C@H](O)[C@H](O)CO,39.30,394.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,265.15,0.60
+Erythritol,OC[C@H](O)[C@H](O)CO,39.30,394.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,303.15,0.67
+Ethylammonium chloride,CC[NH3+].[Cl-],5.50,381.15,Urea,NC(N)=O,14.60,405.85,302.15,0.60
+Ethylene Glycol,OCCO,9.96,260.60,[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,296.15,0.67
+Ethylene Glycol,OCCO,9.96,260.60,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,259.85,0.75
+Ethylene Glycol,OCCO,9.96,260.60,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,249.75,0.80
+Ethylene Glycol,OCCO,9.96,260.60,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,255.65,0.83
+Ethylene Glycol,OCCO,9.96,260.60,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,259.85,0.75
+Ethylene Glycol,OCCO,9.96,260.60,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,249.75,0.80
+Ethylene Glycol,OCCO,9.96,260.60,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,255.65,0.83
+Ethylene Glycol,OCCO,9.96,260.60,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,248.22,0.33
+Ethylene Glycol,OCCO,9.96,260.60,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,243.02,0.67
+Ethylene Glycol,OCCO,9.96,260.60,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,242.27,0.75
+Ethylene Glycol,OCCO,9.96,260.60,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,256.31,0.80
+Ethylene Glycol,OCCO,9.96,260.60,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,424.32,0.33
+Ethylene Glycol,OCCO,9.96,260.60,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,322.17,0.67
+Ethylene Glycol,OCCO,9.96,260.60,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,321.06,0.75
+Ethylene Glycol,OCCO,9.96,260.60,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,333.50,0.83
+Ethylene Glycol,OCCO,9.96,260.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,262.28,0.67
+Ethylene Glycol,OCCO,9.96,260.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,265.19,0.75
+Ethylene Glycol,OCCO,9.96,260.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,236.71,0.80
+Ethylene Glycol,OCCO,9.96,260.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,237.71,0.83
+Ethylene Glycol,OCCO,9.96,260.60,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,352.08,0.50
+Ethylene Glycol,OCCO,9.96,260.60,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,322.42,0.60
+Ethylene Glycol,OCCO,9.96,260.60,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,288.80,0.64
+Ethylene Glycol,OCCO,9.96,260.60,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,230.03,0.67
+Ethylene Glycol,OCCO,9.96,260.60,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,226.90,0.75
+Ethylene Glycol,OCCO,9.96,260.60,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,223.81,0.80
+Ethylene Glycol,OCCO,9.96,260.60,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,224.60,0.83
+Ethylene Glycol,OCCO,9.96,260.60,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,269.37,0.89
+Ethylene Glycol,OCCO,9.96,260.60,"N,N-Diethylethanolammonium chloride",CC[NH+](CC)CCO.[Cl-],,408.15,242.15,0.67
+Ethylene Glycol,OCCO,9.96,260.60,"N,N-Diethylethanolammonium chloride",CC[NH+](CC)CCO.[Cl-],,408.15,248.96,0.75
+Ethylene Glycol,OCCO,9.96,260.60,"N,N-Diethylethanolammonium chloride",CC[NH+](CC)CCO.[Cl-],,408.15,250.90,0.75
+Ethylene Glycol,OCCO,9.96,260.60,"N,N-Diethylethanolammonium chloride",CC[NH+](CC)CCO.[Cl-],,408.15,251.48,0.80
+Fructose,OC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O,33.00,386.75,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,310.15,0.29
+Fructose,OC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O,33.00,386.75,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,283.15,0.33
+Fructose,OC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O,33.00,386.75,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,286.15,0.40
+Fructose,OC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O,33.00,386.75,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,293.15,0.50
+Fructose,OC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O,33.00,386.75,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,301.15,0.60
+Fructose,OC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O,33.00,386.75,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,306.15,0.67
+Fructose,OC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O,33.00,386.75,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,309.15,0.71
+Fructose,OC[C@@]1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O,33.00,386.75,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,313.15,0.75
+Furfuryl alcohol,OCc1ccco1,,258.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,237.40,0.75
+Furfuryl alcohol,OCc1ccco1,,258.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,238.60,0.80
+Furfuryl alcohol,OCc1ccco1,,258.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,239.40,0.83
+Gallic acid,O=C(O)c1cc(O)c(O)c(O)c1,62.39,524.19,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,350.15,0.33
+Glucose,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,420.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,317.15,0.29
+Glucose,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,420.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,288.15,0.33
+Glucose,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,420.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,297.15,0.40
+Glucose,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,420.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,304.15,0.50
+Glucose,OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,420.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,312.15,0.60
+Glutamic acid,[NH3+][C@@H](CCC(=O)O)C(=O)[O-],,472.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,286.15,0.67
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,[N2222]Br,CC[N+](CC)(CC)CC.[Br-],13.90,633.00,301.60,0.43
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,571.62,0.05
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,539.75,0.10
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,504.28,0.15
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,475.42,0.20
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,444.45,0.25
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,418.72,0.30
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,396.78,0.35
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,372.65,0.40
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,342.85,0.45
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,304.55,0.51
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,311.15,0.55
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,320.45,0.60
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,326.58,0.65
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,333.48,0.70
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.02,0.75
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,345.38,0.80
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,352.58,0.85
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,358.68,0.90
+Glutaric Acid,O=C(O)CCCC(=O)O,20.70,370.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,364.25,0.95
+Glycerol,OCC(O)CO,18.30,291.22,[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,293.15,0.50
+Glycerol,OCC(O)CO,18.30,291.22,[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,287.15,0.56
+Glycerol,OCC(O)CO,18.30,291.22,[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,286.15,0.60
+Glycerol,OCC(O)CO,18.30,291.22,[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,296.15,0.67
+Glycerol,OCC(O)CO,18.30,291.22,[Ch][OAc],CC(=O)[O-].C[N+](C)(C)CCO,8.88,362.62,293.15,0.75
+Glycerol,OCC(O)CO,18.30,291.25,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,258.15,0.67
+Glycerol,OCC(O)CO,18.30,291.25,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,257.05,0.75
+Glycerol,OCC(O)CO,18.30,291.25,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,268.45,0.80
+Glycerol,OCC(O)CO,18.30,291.25,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,249.09,0.80
+Glycerol,OCC(O)CO,18.30,291.22,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,231.51,0.75
+Glycerol,OCC(O)CO,18.30,291.22,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,230.54,0.80
+Glycerol,OCC(O)CO,18.30,291.22,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,230.37,0.83
+Glycerol,OCC(O)CO,18.30,291.22,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,328.91,0.67
+Glycerol,OCC(O)CO,18.30,291.22,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,323.51,0.83
+Glycerol,OCC(O)CO,18.30,291.22,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,334.39,0.89
+Glycerol,OCC(O)CO,18.30,291.22,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,432.51,0.10
+Glycerol,OCC(O)CO,18.30,291.22,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,428.27,0.20
+Glycerol,OCC(O)CO,18.30,291.22,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,427.54,0.30
+Glycerol,OCC(O)CO,18.30,291.22,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,412.61,0.40
+Glycerol,OCC(O)CO,18.30,291.22,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,392.00,0.50
+Glycerol,OCC(O)CO,18.30,291.22,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,390.57,0.60
+Glycerol,OCC(O)CO,18.30,291.22,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,378.59,0.67
+Glycerol,OCC(O)CO,18.30,291.22,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,384.17,0.75
+Glycerol,OCC(O)CO,18.30,291.22,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,281.18,0.50
+Glycerol,OCC(O)CO,18.30,291.22,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,237.00,0.67
+Glycerol,OCC(O)CO,18.30,291.22,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,240.50,0.75
+Glycerol,OCC(O)CO,18.30,291.22,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,353.58,0.33
+Glycerol,OCC(O)CO,18.30,291.22,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,348.75,0.50
+Glycerol,OCC(O)CO,18.30,291.22,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,316.71,0.60
+Glycerol,OCC(O)CO,18.30,291.22,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,269.12,0.64
+Glycerol,OCC(O)CO,18.30,291.22,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,276.90,0.67
+Glycerol,OCC(O)CO,18.30,291.22,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,327.85,0.67
+Glycerol,OCC(O)CO,18.30,291.22,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,267.60,0.75
+Glycerol,OCC(O)CO,18.30,291.22,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,288.90,0.80
+Glycerol,OCC(O)CO,18.30,291.22,"N,N-Diethylethanolammonium chloride",CC[NH+](CC)CCO.[Cl-],,408.15,271.82,0.67
+Glycerol,OCC(O)CO,18.30,291.22,"N,N-Diethylethanolammonium chloride",CC[NH+](CC)CCO.[Cl-],,408.15,274.85,0.75
+Glycerol,OCC(O)CO,18.30,291.22,"N,N-Diethylethanolammonium chloride",CC[NH+](CC)CCO.[Cl-],,408.15,275.15,0.80
+Glycerol,OCC(O)CO,18.30,291.25,Phenformin,NC(N)=NC(N)=NCCc1ccccc1,,449.65,204.15,0.67
+Glycerol,OCC(O)CO,18.30,291.25,Ranitidine,CN/C(=C\[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,,342.15,186.15,0.67
+Glycerol,OCC(O)CO,18.30,291.25,Tetracycline,CN(C)[C@@H]1C(=O)C(C(N)=O)=C(O)[C@@]2(O)C(=O)C3=C(O)c4c(O)cccc4[C@@](C)(O)[C@H]3C[C@@H]12,,444.15,335.15,0.67
+Glycerol,OCC(O)CO,18.30,291.25,Ticlopidine,Clc1ccccc1CN1CCc2sccc2C1,,462.15,340.15,0.67
+Glycolic Acid,O=C(O)CO,19.30,350.80,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,257.99,0.50
+Glycolic Acid,O=C(O)CO,19.30,350.80,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,248.31,0.60
+Glycolic Acid,O=C(O)CO,19.30,350.80,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,237.15,0.67
+Glycolic Acid,O=C(O)CO,19.30,350.80,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,246.38,0.70
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,563.15,0.05
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,532.58,0.10
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,504.58,0.15
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,477.55,0.20
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,450.18,0.25
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,420.15,0.30
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,387.98,0.35
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,364.15,0.40
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,335.38,0.45
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,301.95,0.50
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,287.45,0.55
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,297.38,0.60
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,300.78,0.65
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,306.72,0.70
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,313.95,0.75
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,321.95,0.80
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,330.28,0.85
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,337.62,0.90
+Glycolic Acid,O=C(O)CO,19.30,350.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,345.42,0.95
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,557.50,0.10
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,453.80,0.20
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,402.20,0.30
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,332.30,0.40
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,330.40,0.50
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,328.30,0.60
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,329.40,0.70
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,330.20,0.80
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,332.20,0.90
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,337.30,0.10
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,329.00,0.20
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,324.10,0.28
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,315.70,0.40
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,308.50,0.51
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,301.60,0.60
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,307.20,0.70
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,313.20,0.80
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,318.70,0.90
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,536.25,0.06
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,513.25,0.10
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,488.25,0.14
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,451.65,0.19
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,415.78,0.25
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,371.45,0.32
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,335.42,0.41
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,334.62,0.42
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,318.55,0.50
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,320.78,0.59
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,320.95,0.60
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,322.28,0.67
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,322.55,0.69
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,322.73,0.79
+Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,323.35,0.87
+Hexanoic acid,CCCCCC(=O)O,15.40,270.15,Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,217.15,0.50
+Hydroquinone ,Oc1ccc(O)cc1,27.11,445.45,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,332.16,0.50
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,547.62,0.11
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,495.92,0.20
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,443.15,0.31
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,395.82,0.39
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,351.25,0.49
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,326.05,0.60
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,335.08,0.70
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,338.62,0.77
+Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,344.52,0.89
+Imidazole,c1c[nH]cn1,13.10,359.30,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,355.66,0.40
+Imidazole,c1c[nH]cn1,13.10,359.30,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,339.16,0.50
+Imidazole,c1c[nH]cn1,13.10,359.30,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,303.70,0.60
+Imidazole,c1c[nH]cn1,13.10,359.30,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,294.50,0.70
+Imidazole,c1c[nH]cn1,13.10,359.30,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,301.83,0.80
+Imidazole,c1c[nH]cn1,13.10,359.30,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,357.79,0.90
+Imidazole,c1c[nH]cn1,13.10,359.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,367.33,0.40
+Imidazole,c1c[nH]cn1,13.10,359.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,361.29,0.50
+Imidazole,c1c[nH]cn1,13.10,359.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,355.98,0.60
+Imidazole,c1c[nH]cn1,13.10,359.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,329.27,0.70
+Imidazole,c1c[nH]cn1,13.10,359.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,338.55,0.80
+Imidazole,c1c[nH]cn1,13.10,359.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.99,0.90
+Itaconic acid,C=C(CC(=O)O)C(=O)O,32.20,444.46,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,330.15,0.50
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,37.30,368.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,541.85,0.12
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,37.30,368.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,500.92,0.21
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,37.30,368.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,465.85,0.31
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,37.30,368.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,418.68,0.40
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,37.30,368.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,390.52,0.50
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,37.30,368.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,366.25,0.60
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,37.30,368.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,349.75,0.69
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,37.30,368.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,354.72,0.79
+Ketoprofen,CC(C(=O)O)c1cccc(C(=O)c2ccccc2)c1,37.30,368.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,361.62,0.90
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,Alanine,CC([NH3+])C(=O)[O-],22.00,570.15,298.15,0.50
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,Benzyltripropylammonium chloride,CCC[N+](CCC)(CCC)Cc1ccccc1.[Cl-],,478.16,216.86,0.75
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,298.15,0.50
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,565.55,0.05
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,537.15,0.10
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,501.55,0.15
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,466.85,0.20
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,434.82,0.25
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,406.45,0.30
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,386.65,0.35
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,351.42,0.40
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,316.88,0.45
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,296.95,0.50
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,287.75,0.90
+Lactic Acid,CC(O)C(=O)O,11.34,289.95,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,288.35,0.95
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,313.85,0.60
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,312.86,0.66
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,314.52,0.81
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,317.39,0.91
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,467.35,0.20
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,436.25,0.30
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,393.45,0.42
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,348.85,0.51
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,333.62,0.55
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,319.62,0.61
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,308.52,0.70
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,310.43,0.78
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,310.35,0.80
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,316.97,0.90
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,443.25,0.21
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,419.55,0.29
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,380.75,0.40
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,358.35,0.50
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,334.28,0.55
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,292.76,0.60
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,296.26,0.64
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,295.70,0.70
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,311.59,0.80
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,548.53,0.05
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,513.35,0.12
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,505.70,0.16
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,483.78,0.21
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,473.40,0.25
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,444.35,0.31
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,423.45,0.34
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,373.75,0.44
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,343.85,0.50
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,324.20,0.55
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,316.05,0.59
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,313.20,0.66
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,313.38,0.70
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,315.88,0.80
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,316.48,0.90
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,338.64,0.10
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,331.80,0.20
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,325.03,0.29
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,316.65,0.40
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,312.78,0.50
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,308.39,0.70
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,312.46,0.89
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,279.15,0.57
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,325.72,0.10
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,323.24,0.20
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,319.37,0.30
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,316.37,0.40
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,310.96,0.50
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,310.42,0.60
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,309.68,0.65
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,308.85,0.70
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,310.61,0.80
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,315.03,0.90
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,333.95,0.10
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,331.76,0.20
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,329.19,0.30
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,326.06,0.40
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,321.88,0.50
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,314.39,0.60
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,313.89,0.70
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,310.44,0.80
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,310.64,0.85
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,313.50,0.90
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Propranolol,CC(C)NCC(O)COc1cccc2ccccc12,43.42,369.15,327.25,0.33
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Propranolol,CC(C)NCC(O)COc1cccc2ccccc12,43.42,369.15,352.15,0.50
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,316.95,Propranolol,CC(C)NCC(O)COc1cccc2ccccc12,43.42,369.15,289.05,0.75
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,341.47,0.10
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,339.38,0.20
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,337.16,0.30
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,334.86,0.40
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,331.93,0.50
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,328.53,0.60
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,322.13,0.70
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,316.17,0.80
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,312.31,0.85
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,313.04,0.90
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,316.23,0.95
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,311.60,0.21
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,306.96,0.30
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,303.22,0.40
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,301.54,0.45
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,304.76,0.60
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,309.36,0.70
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,311.51,0.80
+Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,314.17,0.90
+Levulinic acid,CC(=O)CCC(=O)O,9.22,306.16,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,278.15,0.67
+Levulinic acid,CC(=O)CCC(=O)O,9.22,306.16,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,262.00,0.75
+Levulinic acid,CC(=O)CCC(=O)O,9.22,306.16,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,263.00,0.80
+Levulinic acid,CC(=O)CCC(=O)O,9.22,306.16,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,263.20,0.83
+Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,307.00,0.50
+Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,246.15,0.50
+Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,Phenyl salicylate,O=C(Oc1ccccc1)c1ccccc1O,19.16,349.85,291.35,0.43
+Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,316.15,0.50
+Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,Tetracaine,CCCCNc1ccc(C(=O)OCCN(C)C)cc1,,421.15,303.15,0.50
+Limonene,C=C(C)[C@@H]1CC=C(C)CC1,11.38,199.18,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,294.05,0.33
+Limonene,C=C(C)[C@@H]1CC=C(C)CC1,11.38,199.18,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,287.45,0.50
+Limonene,C=C(C)[C@@H]1CC=C(C)CC1,11.38,199.18,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,280.95,0.67
+Limonene,C=C(C)[C@@H]1CC=C(C)CC1,11.38,199.18,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,324.75,0.33
+Limonene,C=C(C)[C@@H]1CC=C(C)CC1,11.38,199.18,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,320.85,0.50
+Limonene,C=C(C)[C@@H]1CC=C(C)CC1,11.38,199.18,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,320.65,0.67
+Linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,33.40,266.25,Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,202.15,0.50
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,Alanine,CC([NH3+])C(=O)[O-],22.00,570.15,318.15,0.50
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,318.15,0.50
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,570.35,0.05
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,538.38,0.10
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,505.68,0.15
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,474.48,0.20
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,441.62,0.25
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,417.18,0.30
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,358.52,0.40
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,334.55,0.45
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,338.42,0.50
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,345.92,0.55
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,358.68,0.60
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,364.75,0.65
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,371.42,0.70
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,376.42,0.75
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,383.62,0.80
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,387.88,0.85
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,391.75,0.90
+Malic Acid,O=C(O)CC(O)C(=O)O,33.52,404.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,395.18,0.94
+Malonic Acid,O=C(O)CC(=O)O,23.10,407.46,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,285.15,0.52
+Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,24.69,407.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,547.75,0.10
+Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,24.69,407.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,496.65,0.20
+Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,24.69,407.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,438.88,0.30
+Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,24.69,407.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,377.52,0.40
+Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,24.69,407.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,332.52,0.50
+Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,24.69,407.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,353.58,0.60
+Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,24.69,407.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,364.48,0.70
+Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,24.69,407.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,377.85,0.80
+Mannose,OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O,24.69,407.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,391.75,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,541.50,0.10
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,497.30,0.20
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,447.50,0.30
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,408.60,0.40
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,371.70,0.50
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,315.20,0.70
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,312.30,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,310.10,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,529.30,0.10
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,463.40,0.20
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,418.50,0.30
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,376.80,0.40
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,335.10,0.50
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,316.30,0.60
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,315.70,0.70
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,316.90,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,322.40,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,321.00,0.10
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,319.40,0.20
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,317.70,0.30
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,314.70,0.40
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,312.50,0.50
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,309.10,0.60
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,304.90,0.70
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,301.20,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,309.90,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Hydroquinone ,Oc1ccc(O)cc1,27.11,445.45,398.50,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,302.15,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,312.22,0.25
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,307.23,0.40
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,304.33,0.50
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,299.62,0.60
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,294.64,0.67
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,291.32,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,299.07,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,324.97,0.10
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,322.84,0.20
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,319.74,0.30
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,317.10,0.40
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,314.17,0.50
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,310.93,0.60
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,303.76,0.70
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,296.17,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,306.35,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,330.10,0.10
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,328.90,0.20
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,327.30,0.30
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,325.10,0.40
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,322.30,0.50
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,318.90,0.60
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,313.40,0.70
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,307.80,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,309.00,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,308.53,0.10
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,308.61,0.20
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,317.07,0.30
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,322.82,0.40
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,325.36,0.50
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,327.30,0.59
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,329.91,0.70
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,332.20,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,333.43,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,315.35,0.10
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,309.65,0.20
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,303.95,0.30
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,296.93,0.40
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,290.35,0.50
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,284.21,0.60
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,291.67,0.70
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,299.56,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,307.46,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,297.90,0.85
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,340.88,0.10
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,338.68,0.20
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,336.77,0.31
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,335.17,0.40
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,332.85,0.50
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,330.76,0.60
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,322.99,0.70
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,316.14,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,308.60,0.90
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Testosterone,C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@@]43C)[C@@H]1CC[C@@H]2O,24.86,424.15,313.05,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,304.40,0.11
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,295.50,0.20
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,272.40,0.30
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,263.90,0.35
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,265.40,0.54
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,278.30,0.60
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,281.30,0.70
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,308.30,0.80
+Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,317.90,0.90
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,322.28,0.70
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,318.40,0.80
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,463.65,0.20
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,433.45,0.32
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,392.65,0.41
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,361.95,0.49
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,341.40,0.54
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,335.02,0.60
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,311.71,0.70
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,321.06,0.79
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,324.97,0.90
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,439.35,0.20
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,398.05,0.30
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,353.75,0.40
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,315.25,0.50
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,305.68,0.60
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,308.55,0.65
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,313.15,0.71
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,322.45,0.80
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,326.62,0.90
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,332.60,0.10
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,321.90,0.20
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,308.30,0.32
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,298.50,0.41
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,285.10,0.49
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,297.20,0.61
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,305.20,0.69
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,314.50,0.80
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,321.90,0.90
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,562.60,0.05
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,536.70,0.10
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,504.25,0.16
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,475.83,0.21
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,451.33,0.26
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,429.53,0.29
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,413.52,0.33
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,374.53,0.40
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,373.62,0.42
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,327.68,0.50
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,323.30,0.51
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,317.03,0.55
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,317.40,0.55
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,325.13,0.59
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,325.75,0.68
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,325.95,0.69
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,326.33,0.79
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,326.20,0.79
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,326.98,0.89
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,326.65,0.90
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,335.41,0.05
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,334.06,0.10
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,332.87,0.15
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,331.87,0.20
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,330.77,0.25
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,329.63,0.30
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,328.01,0.35
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,326.00,0.40
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,321.27,0.45
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,321.75,0.50
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,321.99,0.55
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,321.18,0.60
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,320.64,0.65
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,320.42,0.70
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,324.04,0.85
+Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,325.54,0.90
+"N-Benzyl-2-hydroxy-N,N-dimethylethanaminium chloride",C[N+](C)(CCO)Cc1ccccc1.[Cl-],87.30,351.42,Urea,NC(N)=O,14.60,405.85,238.15,0.67
+o-Cresol,Cc1ccccc1O,15.82,304.18,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,265.15,0.67
+o-Cresol,Cc1ccccc1O,15.82,304.18,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,249.40,0.75
+o-Cresol,Cc1ccccc1O,15.82,304.18,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,250.30,0.80
+o-Cresol,Cc1ccccc1O,15.82,304.18,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,251.40,0.83
+o-Cresol,Cc1ccccc1O,15.82,304.18,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,279.50,0.86
+o-Cresol,Cc1ccccc1O,15.82,304.18,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,283.00,0.91
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,435.40,0.30
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,394.30,0.40
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,340.70,0.49
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,336.50,0.59
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,333.50,0.70
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,336.50,0.10
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,331.30,0.20
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,325.80,0.31
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,321.70,0.41
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,317.00,0.50
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,313.00,0.61
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,317.90,0.70
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,324.50,0.80
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,328.90,0.90
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,529.60,0.10
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,497.30,0.20
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,459.70,0.30
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,415.00,0.40
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,389.00,0.50
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,344.20,0.60
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,335.40,0.70
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,334.80,0.80
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,332.10,0.90
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,541.55,0.06
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,510.18,0.10
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,508.55,0.11
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,477.25,0.15
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,480.75,0.16
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,456.75,0.20
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,460.15,0.20
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,413.48,0.25
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,413.78,0.25
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,418.65,0.25
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,383.65,0.32
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,373.95,0.35
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,363.25,0.37
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,339.48,0.40
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.25,0.40
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,344.82,0.41
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,333.68,0.43
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,328.32,0.50
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,328.48,0.51
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,329.98,0.60
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,329.52,0.61
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,330.58,0.68
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,330.55,0.70
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,331.58,0.80
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,331.12,0.80
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,332.20,0.85
+Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,332.42,0.90
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,301.20,0.10
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,296.71,0.20
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,289.87,0.30
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,283.68,0.40
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,281.33,0.50
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,272.78,0.60
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,277.48,0.70
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,282.82,0.80
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Capric Acid,CCCCCCCCCC(=O)O,27.50,304.80,285.39,0.90
+Oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,42.99,289.45,Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,226.15,0.50
+Oxalic Acid,O=C(O)C(=O)O,18.58,462.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,307.15,0.50
+Oxalic Acid,O=C(O)C(=O)O,18.58,462.40,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,321.15,0.67
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,331.46,0.60
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,331.36,0.70
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,332.40,0.80
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,335.05,0.89
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,442.25,0.22
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,407.25,0.30
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,362.95,0.41
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,330.98,0.50
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,319.93,0.59
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,326.01,0.70
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,332.69,0.80
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,335.79,0.90
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,398.65,0.20
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,363.05,0.30
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,324.55,0.40
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,306.67,0.50
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,321.91,0.59
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,323.95,0.70
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,330.81,0.80
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,335.55,0.90
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,333.60,0.10
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,322.20,0.20
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,313.60,0.30
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,303.80,0.40
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,298.40,0.51
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,307.70,0.61
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,316.00,0.70
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,326.80,0.82
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,331.40,0.89
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,539.52,0.11
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,517.95,0.15
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,502.18,0.20
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,473.58,0.25
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,443.48,0.33
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,438.48,0.35
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,418.85,0.40
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,393.63,0.45
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,393.88,0.45
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,377.63,0.47
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,338.85,0.55
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,331.03,0.60
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,331.95,0.63
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,333.20,0.69
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,333.75,0.74
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,334.60,0.81
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,335.05,0.84
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,335.28,0.90
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,343.91,0.10
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,340.64,0.19
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,334.48,0.30
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,331.22,0.40
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,323.69,0.50
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,328.79,0.60
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,331.38,0.70
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,332.53,0.80
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,333.69,0.87
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,341.61,0.10
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,339.79,0.20
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,337.49,0.30
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,333.90,0.40
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,330.76,0.50
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,330.38,0.60
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,329.86,0.80
+Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,333.64,0.88
+Paracetamol,CC(=O)Nc1ccc(O)cc1,26.20,443.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,314.16,0.50
+p-Coumaric acid,O=C(O)/C=C/c1ccc(O)cc1,27.42,492.36,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.15,0.33
+Pelargonic Acid,CCCCCCCCC(=O)O,19.82,285.75,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,310.15,0.14
+Pelargonic Acid,CCCCCCCCC(=O)O,19.82,285.75,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,305.15,0.25
+Pelargonic Acid,CCCCCCCCC(=O)O,19.82,285.75,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,302.15,0.33
+Pelargonic Acid,CCCCCCCCC(=O)O,19.82,285.75,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,299.15,0.44
+Pelargonic Acid,CCCCCCCCC(=O)O,19.82,285.75,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,294.15,0.50
+Pelargonic Acid,CCCCCCCCC(=O)O,19.82,285.75,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,288.15,0.57
+Pelargonic Acid,CCCCCCCCC(=O)O,19.82,285.75,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,285.15,0.67
+Pelargonic Acid,CCCCCCCCC(=O)O,19.82,285.75,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,282.15,0.75
+Pelargonic Acid,CCCCCCCCC(=O)O,19.82,285.75,Lauric Acid,CCCCCCCCCCCC(=O)O,34.69,317.50,285.15,0.86
+Phenol,Oc1ccccc1,11.51,314.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,243.15,0.67
+Phenol,Oc1ccccc1,11.51,314.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,253.10,0.75
+Phenol,Oc1ccccc1,11.51,314.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,260.20,0.80
+Phenol,Oc1ccccc1,11.51,314.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,255.60,0.83
+Phenol,Oc1ccccc1,11.51,314.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,279.30,0.88
+Phenylacetic Acid,O=C(O)Cc1ccccc1,16.30,349.60,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,291.66,0.63
+Phenylpropionic Acid,O=C(O)CCc1ccccc1,32.70,321.10,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,293.98,0.67
+Pimelic Acid,O=C(O)CCCCCC(=O)O,23.70,368.20,[N2222]Br,CC[N+](CC)(CC)CC.[Br-],13.90,633.00,328.10,0.44
+Pimelic Acid,O=C(O)CCCCCC(=O)O,23.70,368.20,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,309.60,0.45
+Prilocaine,CCCNC(C)C(=O)Nc1ccccc1C,,310.55,Lidocaine,CCN(CC)CC(=O)Nc1c(C)cccc1C,16.40,341.15,291.15,0.50
+Propionic acid,CCC(=O)O,10.57,252.15,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,254.01,0.50
+Propionic acid,CCC(=O)O,10.57,252.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,361.20,0.67
+Propylene glycol,CC(O)CO,8.40,237.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,438.30,0.50
+Propylene glycol,CC(O)CO,8.40,237.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,437.76,0.60
+Propylene glycol,CC(O)CO,8.40,237.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,427.28,0.70
+Propylene glycol,CC(O)CO,8.40,237.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,404.67,0.75
+Propylene glycol,CC(O)CO,8.40,237.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,411.28,0.80
+Ranitidine,CN/C(=C\[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,,342.15,Acetylsalicylic Acid,CC(=O)Oc1ccccc1C(=O)O,29.80,414.00,236.15,0.67
+Ranitidine,CN/C(=C\[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1,,342.15,Urea,NC(N)=O,14.60,405.85,242.15,0.67
+Resorcinol,Oc1cccc(O)c1,20.40,382.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,279.15,0.50
+Resorcinol,Oc1cccc(O)c1,20.40,382.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,360.15,0.80
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,534.80,0.10
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,488.80,0.20
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,444.60,0.30
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,411.80,0.40
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,388.50,0.50
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,360.80,0.60
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,347.80,0.70
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,359.70,0.80
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,395.40,0.90
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,550.70,0.10
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,505.70,0.21
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,438.70,0.30
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,393.60,0.41
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.15,0.50
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.60,0.50
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,352.70,0.60
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,366.80,0.71
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,385.40,0.79
+Salicylic Acid,O=C(O)c1ccccc1O,26.10,432.15,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,406.90,0.89
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,319.70,0.58
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,336.30,0.42
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,[N5555]Br,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],40.10,375.90,312.50,0.60
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,534.70,0.10
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,507.40,0.20
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,484.60,0.30
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,453.30,0.40
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,430.10,0.50
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,412.40,0.60
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,399.30,0.70
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,381.00,0.80
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,363.90,0.90
+Sorbitol,OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO,30.20,366.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,284.15,0.50
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,574.55,0.10
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,513.15,0.20
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,461.55,0.30
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,415.95,0.42
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,378.15,0.51
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,447.45,0.21
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,411.75,0.30
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,373.35,0.41
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,349.85,0.50
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,321.65,0.59
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,332.78,0.69
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,338.21,0.77
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N2222]Cl,CC[N+](CC)(CC)CC.[Cl-],51.24,535.40,342.52,0.90
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,473.35,0.13
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,458.55,0.22
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,424.75,0.30
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,392.85,0.41
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,337.22,0.50
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,327.92,0.60
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,332.47,0.70
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,339.86,0.80
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,[N3333]Cl,CCC[N+](CCC)(CCC)CCC.[Cl-],66.58,502.40,340.25,0.90
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,538.50,0.10
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,504.70,0.20
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,477.70,0.30
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,444.50,0.40
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,409.00,0.50
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,384.60,0.60
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,356.70,0.70
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,350.60,0.80
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,342.20,0.90
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,543.68,0.10
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,523.92,0.16
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,493.68,0.21
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,483.82,0.25
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,463.58,0.31
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,443.85,0.35
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,433.78,0.40
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,408.60,0.45
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,388.62,0.50
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,355.52,0.55
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,339.55,0.61
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.68,0.70
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.72,0.81
+Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,342.45,0.89
+Suberic Acid,O=C(O)CCCCCCC(=O)O,30.20,415.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,366.15,0.50
+Succinic Acid,O=C(O)CCC(=O)O,34.00,455.20,[N2222]Br,CC[N+](CC)(CC)CC.[Br-],13.90,633.00,349.30,0.50
+Succinic Acid,O=C(O)CCC(=O)O,34.00,455.20,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,363.15,0.50
+Succinic Acid,O=C(O)CCC(=O)O,34.00,455.20,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,344.15,0.67
+Sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,462.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,541.95,0.10
+Sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,462.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,477.88,0.20
+Sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,462.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,411.82,0.30
+Sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,462.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,370.52,0.40
+Sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,462.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,343.65,0.51
+Sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,462.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,369.65,0.61
+Sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,462.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,386.22,0.70
+Sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,462.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,404.58,0.80
+Sucrose,OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O,32.00,462.05,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,431.45,0.89
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,557.95,0.05
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,514.45,0.10
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,471.75,0.15
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,435.52,0.20
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,386.68,0.25
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,357.62,0.30
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,321.55,0.33
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,330.62,0.40
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.62,0.45
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,352.35,0.50
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,364.32,0.55
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,374.55,0.59
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,385.82,0.65
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,393.65,0.70
+Tartaric Acid,O=C(O)[C@@H](O)[C@H](O)C(=O)O,36.31,443.30,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,411.58,0.80
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,547.50,0.10
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,506.60,0.20
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,450.90,0.31
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,414.50,0.40
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,382.60,0.49
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,314.60,0.60
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,317.10,0.69
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,318.30,0.80
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N1111]Cl,C[N+](C)(C)C.[Cl-],20.49,612.87,313.10,0.90
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,333.40,0.10
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,326.00,0.20
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,316.40,0.30
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,307.80,0.40
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,294.70,0.51
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,291.60,0.60
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,296.20,0.70
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,296.70,0.79
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,305.40,0.90
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,520.08,0.11
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,494.78,0.17
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,483.52,0.20
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,456.58,0.26
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,443.85,0.29
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,414.08,0.36
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,390.25,0.40
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,353.18,0.45
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,331.62,0.50
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,319.48,0.54
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,303.15,0.58
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,306.55,0.71
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,310.32,0.80
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,310.92,0.89
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,307.60,0.10
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,294.60,0.20
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,290.60,0.30
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,294.00,0.40
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,297.20,0.50
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,302.60,0.60
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,304.20,0.70
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,309.00,0.80
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,13.74,314.60,310.00,0.90
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,319.00,0.10
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,313.70,0.20
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,300.20,0.30
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,290.00,0.40
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,289.90,0.50
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,298.20,0.60
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,301.40,0.70
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,305.60,0.80
+Tetradecan-1-ol,CCCCCCCCCCCCCCO,45.81,311.70,Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,309.40,0.90
+Thiourea,NC(N)=S,15.64,444.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,373.15,0.58
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,547.90,0.10
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,518.80,0.21
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,489.70,0.30
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,426.40,0.40
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,359.20,0.50
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,328.50,0.60
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,310.90,0.90
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,518.00,0.10
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,482.00,0.20
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,414.20,0.30
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,377.20,0.40
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,348.60,0.50
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,337.90,0.60
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,340.15,0.67
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,327.40,0.70
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,229.15,0.50
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,236.15,0.60
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,DL-camphor,CC12CCC(CC1=O)C2(C)C,5.90,448.15,240.15,0.70
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,320.80,0.10
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,318.80,0.20
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,314.10,0.30
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,309.40,0.40
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,306.60,0.50
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,301.80,0.60
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,306.10,0.70
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,312.60,0.80
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Hexadecan-1-ol,CCCCCCCCCCCCCCCCO,60.96,324.40,318.20,0.90
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Ibuprofen,CC(C)Cc1ccc(C(C)C(=O)O)cc1,39.50,350.40,305.15,0.67
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,322.41,0.20
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,319.51,0.30
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,317.42,0.40
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,313.95,0.50
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,312.14,0.60
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,309.05,0.70
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,312.30,0.80
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Myristic Acid,CCCCCCCCCCCCCC(=O)O,45.75,327.00,318.44,0.90
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,330.60,0.10
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,327.90,0.20
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,324.60,0.30
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,321.80,0.40
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,318.30,0.50
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,314.00,0.60
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,309.60,0.70
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,310.20,0.80
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Octadecan-1-ol,CCCCCCCCCCCCCCCCCCO,65.35,332.90,318.60,0.90
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,331.72,0.21
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,329.00,0.30
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,327.45,0.40
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,324.31,0.50
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,320.48,0.60
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,318.25,0.70
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Palmitic Acid,CCCCCCCCCCCCCCCC(=O)O,51.02,336.80,311.83,0.80
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,341.05,0.10
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,339.37,0.20
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,337.45,0.30
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,334.71,0.40
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,332.62,0.50
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,329.42,0.60
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,325.51,0.70
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,322.48,0.80
+Thymol,Cc1ccc(C(C)C)c(O)c1,19.65,323.50,Stearic Acid,CCCCCCCCCCCCCCCCCC(=O)O,61.36,344.04,316.71,0.90
+trans-Cinnamic acid,O=C(O)/C=C/c1ccccc1,22.20,406.10,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,366.15,0.50
+Tricarballylic acid,O=C(O)CC(CC(=O)O)C(=O)O,,433.16,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,363.15,0.30
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,261.15,0.71
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,253.95,0.75
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,[N3333]Br,CCC[N+](CCC)(CCC)CCC.[Br-],7.30,583.00,263.55,0.80
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,263.54,0.20
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,260.46,0.25
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,275.57,0.33
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,290.28,0.50
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,[N4444]Cl,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],14.69,344.00,287.24,0.50
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,Benzyltriphenylphosphonium chloride,[Cl-].c1ccc(C[P+](c2ccccc2)(c2ccccc2)c2ccccc2)cc1,,603.15,253.66,0.11
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,273.65,0.75
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,253.32,0.75
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,263.96,0.80
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,260.46,0.83
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,258.77,0.86
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,265.15,0.75
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,254.98,0.80
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,Methyltriphenylphosphonium bromide,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.[Br-],,504.15,252.15,0.83
+Triethylene glycol,OCCOCCOCCO,18.20,263.80,"N,N-Diethylethanolammonium chloride",CC[NH+](CC)CCO.[Cl-],,408.15,273.15,0.33
+Urea,NC(N)=O,14.60,405.85,[N2222]Br,CC[N+](CC)(CC)CC.[Br-],13.90,633.00,386.15,0.33
+Urea,NC(N)=O,14.60,405.85,"2-(Acetoxy)-N,N,N-trimethylethanaminium chloride",CC(=O)OCC[N+](C)(C)C.[Cl-],,422.15,259.15,0.33
+Urea,NC(N)=O,14.60,405.85,"2-Chloro-N,N,N-trimethylethanaminium chloride",C[N+](C)(C)CCCl.[Cl-],,515.15,288.15,0.33
+Urea,NC(N)=O,14.60,405.85,"2-Fluoro-N,N,N-trimethylethanaminium chloride",C[N+](C)(C)CCF.[Cl-],,518.15,328.15,0.33
+Urea,NC(N)=O,14.60,405.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,522.20,0.10
+Urea,NC(N)=O,14.60,405.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,490.40,0.21
+Urea,NC(N)=O,14.60,405.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,458.20,0.31
+Urea,NC(N)=O,14.60,405.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,435.50,0.39
+Urea,NC(N)=O,14.60,405.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,408.10,0.50
+Urea,NC(N)=O,14.60,405.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,386.30,0.62
+Urea,NC(N)=O,14.60,405.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,369.50,0.70
+Urea,NC(N)=O,14.60,405.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,359.30,0.81
+Urea,NC(N)=O,14.60,405.85,Betaine,C[N+](C)(C)CC(=O)[O-],42.76,514.15,390.70,0.90
+Urea,NC(N)=O,14.60,405.85,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,297.20,0.60
+Urea,NC(N)=O,14.60,405.85,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,286.15,0.67
+Urea,NC(N)=O,14.60,405.85,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,304.10,0.71
+Urea,NC(N)=O,14.60,405.85,Sulfathiazole,Nc1ccc(S(=O)(=O)Nc2nccs2)cc1,,475.65,391.15,0.80
+Xylitol,OC[C@H](O)[C@@H](O)[C@H](O)CO,37.40,365.70,[N4444]Br,CCCC[N+](CCCC)(CCCC)CCCC.[Br-],10.00,390.80,313.20,0.35
+Xylitol,OC[C@H](O)[C@@H](O)[C@H](O)CO,37.40,365.70,[N5555]Br,CCCCC[N+](CCCCC)(CCCCC)CCCCC.[Br-],40.10,375.90,332.40,0.55
+Xylitol,OC[C@H](O)[C@@H](O)[C@H](O)CO,37.40,365.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,289.15,0.29
+Xylitol,OC[C@H](O)[C@@H](O)[C@H](O)CO,37.40,365.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,269.15,0.33
+Xylitol,OC[C@H](O)[C@@H](O)[C@H](O)CO,37.40,365.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,275.15,0.40
+Xylitol,OC[C@H](O)[C@@H](O)[C@H](O)CO,37.40,365.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,270.15,0.50
+Xylitol,OC[C@H](O)[C@@H](O)[C@H](O)CO,37.40,365.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,277.15,0.60
+Xylitol,OC[C@H](O)[C@@H](O)[C@H](O)CO,37.40,365.70,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,280.15,0.67
+Xylose,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O,31.65,423.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,540.15,0.10
+Xylose,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O,31.65,423.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,487.45,0.20
+Xylose,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O,31.65,423.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,439.22,0.30
+Xylose,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O,31.65,423.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,379.45,0.40
+Xylose,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O,31.65,423.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,320.62,0.50
+Xylose,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O,31.65,423.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,341.72,0.60
+Xylose,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O,31.65,423.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,359.82,0.71
+Xylose,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O,31.65,423.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,381.62,0.80
+Xylose,O[C@H]1OC[C@@H](O)[C@H](O)[C@H]1O,31.65,423.00,ChCl,C[N+](C)(C)CCO.[Cl-],4.30,578.15,405.78,0.90
