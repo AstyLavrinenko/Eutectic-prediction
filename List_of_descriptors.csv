@@ -1,0 +1,224 @@
+Descriptors,Interpretation
+Asphericity,A descriptor that measures the deviation from the spherical shape
+Autocorr3D,3D Autocorrelation
+BalabanJ,"»ндекс рассто€ний-св€зности Ѕалабана J. используетс€ информаци€, содержаща€с€ в матрице топологических рассто€ний между атомами. It was called Уaveraged distance sum connectivityФ in the original article of Balaban"
+BCUT2D_CHGHI,Descriptor based on Burden matrix which takes into account both the connectivity as well as atomic properties of a molecule. Gasteiger charge eigen value high
+BCUT2D_CHGLO,Descriptor based on Burden matrix which takes into account both the connectivity as well as atomic properties of a molecule. Gasteiger charge eigen value low
+BCUT2D_LOGPHI,Descriptor based on Burden matrix which takes into account both the connectivity as well as atomic properties of a molecule. Crippen lowgp eigen value high
+BCUT2D_LOGPLOW,Descriptor based on Burden matrix which takes into account both the connectivity as well as atomic properties of a molecule. Crippen lowgp eigen value low
+BCUT2D_MRHI,Descriptor based on Burden matrix which takes into account both the connectivity as well as atomic properties of a molecule. Crippen mr eigen value high
+BCUT2D_MRLOW,Descriptor based on Burden matrix which takes into account both the connectivity as well as atomic properties of a molecule. Crippen mr eigen value low
+BCUT2D_MWHI,Descriptor based on Burden matrix which takes into account both the connectivity as well as atomic properties of a molecule. Mass eigen value high
+BCUT2D_MWLOW,Descriptor based on Burden matrix which takes into account both the connectivity as well as atomic properties of a molecule. Mass eigen value low
+BertzCT,"A topological index meant to quantify ""complexity"""
+Chi0,
+Chi0n,
+Chi0v,
+Chi1,
+Chi1n,
+Chi1v,
+Chi2n,
+Chi2v,
+Chi3n,
+Chi3v,
+Chi4n,
+Chi4v,
+Eccentricity,
+EState_VSA1,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA10,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA11,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA2,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA3,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA4,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA5,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA6,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA7,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA8,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+EState_VSA9,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Electrotopological state index"
+ExactMolWt,The exact molecular weight of the molecule
+FpDensityMorgan1,
+FpDensityMorgan2,
+FpDensityMorgan3,
+fr_Al_COO,Number of aliphatic carboxylic acids
+fr_Al_OH,Number of aliphatic hydroxyl groups
+fr_Al_OH_noTert,Number of aliphatic hydroxyl groups excluding tert-OH
+fr_aldehyde,Number of aldehydes
+fr_alkyl_carbamate,Number of alkyl carbamates (subject to hydrolysis)
+fr_alkyl_halide,Number of alkyl halides
+fr_allylic_oxid,Number of allylic oxidation sites excluding steroid dienone
+fr_amide,Number of amides
+fr_amidine,Number of amidine groups
+fr_aniline,Number of anilines
+fr_Ar_COO,Number of Aromatic carboxylic acide
+fr_Ar_N,Number of aromatic nitrogens
+fr_Ar_NH,Number of aromatic amines
+fr_Ar_OH,Number of aromatic hydroxyl groups
+fr_ArN,Number of N functional groups attached to aromatics
+fr_aryl_methyl,Number of aryl methyl sites for hydroxylation
+fr_azide,Number of azide groups
+fr_azo,Number of azo groups
+fr_barbitur,Number of barbiturate groups
+fr_benzene,Number of benzene rings
+fr_benzodiazepine,Number of benzodiazepines with no additional fused rings
+fr_bicyclic,Bicyclic
+fr_C_O,Number of carbonyl O
+fr_C_O_noCOO,"Number of carbonyl O, excluding COOH"
+fr_C_S,Number of thiocarbonyl
+fr_COO,Number of carboxylic acids
+fr_COO2,Number of carboxylic acids
+fr_diazo,Number of diazo groups
+fr_dihydropyridine,Number of dihydropyridines
+fr_epoxide,Number of epoxide rings
+fr_ester,Number of esters
+fr_ether,Number of ether oxygens (including phenoxy)
+fr_furan,Number of furan rings
+fr_guanido,Number of guanidine groups
+fr_halogen,Number of halogens
+fr_hdrzine,Number of hydrazine groups
+fr_hdrzone,Number of hydrazone groups
+fr_HOCCN,Number of C(OH)CCN-Ctert-alkyl or C(OH)CCNcyclic
+fr_imidazole,Number of imidazole rings
+fr_imide,Number of imide groups
+fr_Imine,Number of Imines
+fr_isocyan,Number of isocyanates
+fr_isothiocyan,Number of isothiocyanates
+fr_ketone,Number of ketones
+fr_ketone_Topliss,"Number of ketones excluding diaryl, a,b-unsat"
+fr_lactam,Number of beta lactams
+fr_lactone,Number of cyclic esters (lactones)
+fr_methoxy,Number of methoxy groups -OCH3
+fr_morpholine,Number of morpholine rings
+fr_N_O,Number of hydroxylamine groups
+fr_Ndealkylation1,Number of XCCNR groups
+fr_Ndealkylation2,"Number of tert-alicyclic amines (no heteroatoms, not quinine-like bridged N)"
+fr_NH0,Number of Tertiary amines
+fr_NH1,Number of Secondary amines
+fr_NH2,Number of Primary amines
+fr_Nhpyrrole,Number of H-pyrrole nitrogens
+fr_nitrile,Number of nitriles
+fr_nitro,Number of nitro groups
+fr_nitro_arom,Number of nitro benzene ring substituent
+fr_nitro_arom_nonortho,Number of non-ortho nitro benzene ring substituents
+fr_nitroso,"Number of nitroso groups, excluding NO2"
+fr_oxazole,Number of oxazole rings
+fr_oxime,Number of oxime groups
+fr_para_hydroxylation,Number of para-hydroxylation sites
+fr_phenol,Number of phenols
+fr_phenol_noOrthoHbond,Number of phenolic OH excluding ortho intramolecular Hbond substituents
+fr_phos_acid,Number of phosphoric acid groups
+fr_phos_ester,Number of phosphoric ester groups
+fr_piperdine,Number of piperdine rings
+fr_piperzine,Number of piperzine rings
+fr_priamide,Number of primary amides
+fr_prisulfonamd,Number of primary sulfonamides
+fr_pyridine,Number of pyridine rings
+fr_quatN,Number of quarternary nitrogens
+fr_SH,Number of thiol groups
+fr_sulfide,Number of thioether
+fr_sulfonamd,Number of sulfonamides
+fr_sulfone,Number of sulfone groups
+fr_term_acetylene,Number of terminal acetylenes
+fr_tetrazole,Number of tetrazole rings
+fr_thiazole,Number of tetrazole rings
+fr_thiocyan,Number of thiocyanates
+fr_thiophene,Number of thiophene rings
+fr_unbrch_alkane,Number of unbranched alkanes of at least 4 members (excludes halogenated alkanes)
+fr_urea,Number of urea groups
+FractionCSP3,The fraction of C atoms that are SP3 hybridized
+GETAWAY,"GETAWAY descriptors are three-dimensional descriptors that encode information about the influence that each atom has in determining the whole shape in the molecule and evaluate the interactions among atoms with respect to their geometrical position in the three-dimensional space. For their calculation molecular matrix, representations are considered."
+HallKierAlpha,
+HeavyAtomCount,The number of heavy atoms a molecule
+HeavyAtomMolWt,The average molecular weight of the molecule ignoring hydrogens
+InertialShapeFactor,This is a shape factor based on the principal moments of inertia
+Ipc,The information content of the coefficients of the characteristic polynomial of the adjacency matrix of a hydrogen-suppressed graph of a molecule
+Kappa1,"каппа-индексы формы, которые служат дл€ описани€ формы молекулы"
+Kappa2,"каппа-индексы формы, которые служат дл€ описани€ формы молекулы"
+Kappa3,"каппа-индексы формы, которые служат дл€ описани€ формы молекулы"
+LabuteASA,Labute's Approximate Surface Area
+MaxAbsEStateIndex,"электротопологический индекс состо€ни€, характеризующий электронное и топологическое состо€ние"
+MaxAbsPartialCharge,Maximum absolute partial charge
+MaxEStateIndex,"электротопологический индекс состо€ни€, характеризующий электронное и топологическое состо€ние"
+MaxPartialCharge,Maximum partial charge
+MinAbsEStateIndex,"электротопологический индекс состо€ни€, характеризующий электронное и топологическое состо€ние"
+MinAbsPartialCharge,Minimal absolute partial charge
+MinEStateIndex,"электротопологический индекс состо€ни€, характеризующий электронное и топологическое состо€ние"
+MinPartialCharge,Minimal partial charge
+MolLogP,Wildman-Crippen LogP value
+MolMR,"ћолекул€рна€ рефракци€ €вл€етс€ макроскопической величиной, отражающий молекул€рный объем и пол€ризуемость молекул"
+MolWt,The average molecular weight of the molecule
+MORSE,obtaining information from the 3D atomic coordinates by the transform used in electron diffraction studies for preparing theoretical scattering curves. 
+NHOHCount,The number of NHs or OHs
+NOCount,The number of Nitrogens and Oxygens
+NPR1,Normalized principal moments ratio 1 (=I1/I3)
+NPR2,Normalized principal moments ratio 2 (=I2/I3)
+NumAliphaticCarbocycles,The number of aliphatic (containing at least one non-aromatic bond) carbocycles for a molecule
+NumAliphaticHeterocycles,The number of aliphatic (containing at least one non-aromatic bond) heterocycles for a molecule
+NumAliphaticRings,The number of aliphatic (containing at least one non-aromatic bond) rings for a molecule
+NumAromaticCarbocycles,The number of aromatic carbocycles for a molecule
+NumAromaticHeterocycles,The number of aromatic heterocycles for a molecule
+NumAromaticRings,The number of aromatic rings for a molecule
+NumHAcceptors,The number of Hydrogen Bond Acceptors
+NumHDonors,The number of Hydrogen Bond Donors
+NumHeteroatoms,The number of Heteroatoms
+NumRadicalElectrons,The number of radical electrons the molecule has (says nothing about spin state)
+NumRotatableBonds,The number of Rotatable Bonds
+NumSaturatedCarbocycles,The number of saturated carbocycles for a molecule
+NumSaturatedHeterocycles,The number of saturated heterocycles for a molecule
+NumSaturatedRings,The number of saturated rings for a molecule
+NumValenceElectrons,The number of valence electrons the molecule has
+PEOE_VSA1,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA10,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA11,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA12,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA13,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA14,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA2,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA3,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA4,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA5,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA6,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA7,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA8,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PEOE_VSA9,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. Gasteiger partial charges, intended to capture direct electrostatic interactions."
+PMI1,"	First (smallest) principal moment of inertia"
+PMI2,Second principal moment of inertia
+PMI3,Third (largest) principal moment of inertia
+qed,
+RadiusOfGyration,A size descriptor for the distribution of atomic masses in a molecule
+RDF,are based on the geometrical interatomic distance and constitute a radial distribution function code.
+RingCount,Ring count
+SlogP_VSA1,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA10,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA11,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA12,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA2,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA3,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA4,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA5,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA6,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA7,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA8,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SlogP_VSA9,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. logP,  intended to capture hydrophobic and hydrophilic effects"
+SMR_VSA1,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SMR_VSA10,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SMR_VSA2,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SMR_VSA3,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SMR_VSA4,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SMR_VSA5,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SMR_VSA6,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SMR_VSA7,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SMR_VSA8,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SMR_VSA9,"If we assume that the shape of each atom is a sphere with radius equal to the van der Waals radius, we obtain the van der Waals surface area (VSA) for each atom. Each VSA-type descriptor can be characterized as the amount of surface area with property in a certain range. MR, intended to capture polarizability"
+SpherocityIndex,
+TPSA,топологическа€ площадь пол€рной поверхности на основании вкладов от отдельных фрагментов молекул€рного графа 
+VSA_EState1,
+VSA_EState10,
+VSA_EState2,
+VSA_EState3,
+VSA_EState4,
+VSA_EState5,
+VSA_EState6,
+VSA_EState7,
+VSA_EState8,
+VSA_EState9,
+WHIM,"(1) ван-дер-ваальсовы объемы; (2) электроотрицательность атомов; (3) пол€ризуемость атомов; (4) шкалированные электротопологические индексы состо€ни€. WHIM descriptors encode three-dimensional information on size, shape, symmetry, and atomic property distribution"
