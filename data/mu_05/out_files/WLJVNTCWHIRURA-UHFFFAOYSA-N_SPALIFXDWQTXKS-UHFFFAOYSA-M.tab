@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 WLJVNTCWHIRURA-UHFFFAOYSA-N     -4.83659     -4.58505   -360916.58498    -12.60354      3.78232     -7.14085     -9.24501      0.00000      0.00000    204.74129    199.67501    160.16854      0.00107       4.5503      3.28485      6.25131    124.68637      0.58788    217.71378    -87.91588    523.07795
+   2 SPALIFXDWQTXKS-UHFFFAOYSA-M     -4.37617    -15.16016  -2144889.99784    -19.34145      7.97398     -6.71687    -20.59856      0.00000      0.00000    412.28633    515.48505    378.47609      0.00346      19.0657     16.68501      0.03140    155.40050    153.14988    308.03481    460.43547    804.07111
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 WLJVNTCWHIRURA-UHFFFAOYSA-N     -4.83659     -4.58505   -360916.58498    -12.60354      3.78232     -7.14085     -9.24501      0.00000     1     1 1.000000 1.000000   -360911.74839   -360900.00483       -11.74356    -16.82092      1.00117    204.74129    199.67501    160.16854      0.00107       4.5503      3.28485      6.25131    124.68637      0.58788    217.71378    -87.91588    523.07795
+   2 SPALIFXDWQTXKS-UHFFFAOYSA-M     -4.37617    -15.16016  -2144889.99784    -19.34145      7.97398     -6.71687    -20.59856      0.00000     2     1 1.000000 1.000000  -2144885.62167  -2144858.99789       -26.62378    -38.96290      0.65025    412.28633    515.48505    378.47609      0.00346      19.0657     16.68501      0.03140    155.40050    153.14988    308.03481    460.43547    804.07111

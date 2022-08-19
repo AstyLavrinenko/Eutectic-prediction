@@ -1,0 +1,89 @@
+ -----------------------------------------------------------
+ BIOVIA COSMOtherm Version 2019 (build: 19.0.5 [65f0de1d5f])
+ -----------------------------------------------------------
+
+ Copyright (C) 1999-2019, Dassault Systemes BIOVIA corp, all rights reserved
+
+ Job name   : !! Computation of compound SIGMA-PROFILES
+ Job date   : 10/14/2021
+ Job time   : 03:22:21
+ Hostname   : unknown
+ OS type    : unknown
+ Executable : Linux 64-bit
+
+ Reading COSMOtherm parameter file BP_TZVP_C30_1701.ctd from directory /home/nastya/COSMOlogic/COSMOthermX19/COSMOtherm/CTDATA-FILES/OLDPARAM/
+ Info: # COSMOtherm parameter file ./BP_TZVP_C30_1701.ctd for BP-TZVP optimized COSMO files                                                                  
+
+ Reading COSMOtherm license key license.txt from directory /home/nastya/COSMOlogic/COSMOthermX19/licensefiles/
+
+ COSMOtherm license key expiration date 01/16/2022
+ COSMOtherm license key version 19.0
+ Customer : TU Delft, Faculty of Applied Sciences
+ ID       : 107270
+
+ License keys:
+  product                   |    licensed version    | status
+ ------------------------------------------------------------------------------ 
+  COSMOtherm                |          19.0          | active
+  TURBOMOLE                 |          7.3           | active
+ ------------------------------------------------------------------------------ 
+ Sigma potentials for all mixtures will be written to /media/nastya/storage/Project_nastya/sigma_potential_17/JUGOREOARAHOCO-UHFFFAOYSA-M.pot
+ 
+ Reading COSMO information for compound 1 conformer 1 from file /media/nastya/storage/Project_nastya/cosmo/JUGOREOARAHOCO-UHFFFAOYSA-M.cosmo
+ Note: Gas phase energy file could not be found for compound 1 conformer 1
+ Note: converting Gaussian COSMO-file information of compound 1 conformer 1
+
+
+ --- Compound 1 (JUGOREOARAHOCO-UHFFFAOYSA-M) ---
+
+ Compound Information for compound 1 conformer 1 (COSMO file /media/nastya/storage/Project_nastya/cosmo/JUGOREOARAHOCO-UHFFFAOYSA-M.cosmo)
+ Atomic weights         : 111111111111111111111111111
+ E_COSMO+dE             :    -591138.5583 kcal/mol
+ E_gas                  :    -591105.8100 kcal/mol
+ E_COSMO-E_gas+dE       :        -32.7483 kcal/mol
+ E_diel                 :        -48.1405 kcal/mol
+ Averaging corr dE      :          0.9501 kcal/mol
+ Area                   :        229.6582 A^2
+ Volume                 :        237.7271 A^3
+ Molecular Weight       :        181.6614 a.m.u.
+ Total COSMO charge     :          0.0104 a.u.
+ Dipole moment (t,x,y,z):         17.6680 -1.63E+01  6.764687 -0.230423 Debye                            
+ Sigma moments (1-6)    :          0.0000  2.12E+02  1.56E+02  4.25E+02  5.50E+02  1.10E+03              
+ H-bond moment (accept) :         19.8564
+ H-bond moment (donor)  :          0.4398
+ 
+ WARNING: QM computation level of compound 1 conformer 1 could not be determined - it may differ from the QM level of the parameter set.
+ No gas phase energy for compound 1 conformer 1 specified, thus it will be estimated
+
+
+ Total number of processed compounds:    1
+
+
+----------------
+ START job     1
+----------------
+
+
+ Results for mixture 1
+ ---------------------
+ Temperature          :    298.150 K
+ Compound Nr.         :         1
+ Compound             : JUGOREOAR
+ Mole Fraction        :    1.0000
+
+ Compound: 1  (JUGOREOARAHOCO-UHFFFAOYSA-M)
+ Chemical potential of the compound in the mixture :         2.18041 kcal/mol
+ Log10(partial pressure [mbar])                    :       -14.83233
+ Free energy of molecule in mix (E_COSMO+dE+Mu)    :   -591136.37789 kcal/mol
+ Total mean interaction energy in the mix (H_int)  :        -7.39604 kcal/mol
+ Misfit interaction energy in the mix (H_MF)       :         7.97660 kcal/mol
+ H-Bond interaction energy in the mix (H_HB)       :        -4.00958 kcal/mol
+ VdW interaction energy in the mix (H_vdW)         :       -11.36306 kcal/mol
+
+
+----------------
+ END job       1
+----------------
+
+ Note: Sigma-potentials are tabulated in /media/nastya/storage/Project_nastya/sigma_potential_17/JUGOREOARAHOCO-UHFFFAOYSA-M.tab
+

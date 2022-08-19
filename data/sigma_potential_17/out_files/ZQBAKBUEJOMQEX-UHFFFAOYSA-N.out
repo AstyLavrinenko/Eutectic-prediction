@@ -1,0 +1,89 @@
+ -----------------------------------------------------------
+ BIOVIA COSMOtherm Version 2019 (build: 19.0.5 [65f0de1d5f])
+ -----------------------------------------------------------
+
+ Copyright (C) 1999-2019, Dassault Systemes BIOVIA corp, all rights reserved
+
+ Job name   : !! Computation of compound SIGMA-PROFILES
+ Job date   : 10/14/2021
+ Job time   : 03:22:50
+ Hostname   : unknown
+ OS type    : unknown
+ Executable : Linux 64-bit
+
+ Reading COSMOtherm parameter file BP_TZVP_C30_1701.ctd from directory /home/nastya/COSMOlogic/COSMOthermX19/COSMOtherm/CTDATA-FILES/OLDPARAM/
+ Info: # COSMOtherm parameter file ./BP_TZVP_C30_1701.ctd for BP-TZVP optimized COSMO files                                                                  
+
+ Reading COSMOtherm license key license.txt from directory /home/nastya/COSMOlogic/COSMOthermX19/licensefiles/
+
+ COSMOtherm license key expiration date 01/16/2022
+ COSMOtherm license key version 19.0
+ Customer : TU Delft, Faculty of Applied Sciences
+ ID       : 107270
+
+ License keys:
+  product                   |    licensed version    | status
+ ------------------------------------------------------------------------------ 
+  COSMOtherm                |          19.0          | active
+  TURBOMOLE                 |          7.3           | active
+ ------------------------------------------------------------------------------ 
+ Sigma potentials for all mixtures will be written to /media/nastya/storage/Project_nastya/sigma_potential_17/ZQBAKBUEJOMQEX-UHFFFAOYSA-N.pot
+ 
+ Reading COSMO information for compound 1 conformer 1 from file /media/nastya/storage/Project_nastya/cosmo/ZQBAKBUEJOMQEX-UHFFFAOYSA-N.cosmo
+ Note: Gas phase energy file could not be found for compound 1 conformer 1
+ Note: converting Gaussian COSMO-file information of compound 1 conformer 1
+
+
+ --- Compound 1 (ZQBAKBUEJOMQEX-UHFFFAOYSA-N) ---
+
+ Compound Information for compound 1 conformer 1 (COSMO file /media/nastya/storage/Project_nastya/cosmo/ZQBAKBUEJOMQEX-UHFFFAOYSA-N.cosmo)
+ Atomic weights         : 11111111111111111111111111
+ E_COSMO+dE             :    -456421.9158 kcal/mol
+ E_gas                  :    -456415.1672 kcal/mol
+ E_COSMO-E_gas+dE       :         -6.7486 kcal/mol
+ E_diel                 :         -8.9720 kcal/mol
+ Averaging corr dE      :          0.5493 kcal/mol
+ Area                   :        241.5448 A^2
+ Volume                 :        248.6327 A^3
+ Molecular Weight       :        214.2179 a.m.u.
+ Total COSMO charge     :          0.0019 a.u.
+ Dipole moment (t,x,y,z):          3.3856 -0.970061 -3.193681  0.567135 Debye                            
+ Sigma moments (1-6)    :          0.0000  6.46E+01  7.826265  4.35E+01  2.14E+01  4.56E+01              
+ H-bond moment (accept) :          0.6238
+ H-bond moment (donor)  :          0.0000
+ 
+ WARNING: QM computation level of compound 1 conformer 1 could not be determined - it may differ from the QM level of the parameter set.
+ No gas phase energy for compound 1 conformer 1 specified, thus it will be estimated
+
+
+ Total number of processed compounds:    1
+
+
+----------------
+ START job     1
+----------------
+
+
+ Results for mixture 1
+ ---------------------
+ Temperature          :    298.150 K
+ Compound Nr.         :         1
+ Compound             : ZQBAKBUEJ
+ Mole Fraction        :    1.0000
+
+ Compound: 1  (ZQBAKBUEJOMQEX-UHFFFAOYSA-N)
+ Chemical potential of the compound in the mixture :        -5.28254 kcal/mol
+ Log10(partial pressure [mbar])                    :        -2.90654
+ Free energy of molecule in mix (E_COSMO+dE+Mu)    :   -456427.19830 kcal/mol
+ Total mean interaction energy in the mix (H_int)  :        -8.64419 kcal/mol
+ Misfit interaction energy in the mix (H_MF)       :         2.89422 kcal/mol
+ H-Bond interaction energy in the mix (H_HB)       :        -0.02140 kcal/mol
+ VdW interaction energy in the mix (H_vdW)         :       -11.51702 kcal/mol
+
+
+----------------
+ END job       1
+----------------
+
+ Note: Sigma-potentials are tabulated in /media/nastya/storage/Project_nastya/sigma_potential_17/ZQBAKBUEJOMQEX-UHFFFAOYSA-N.tab
+

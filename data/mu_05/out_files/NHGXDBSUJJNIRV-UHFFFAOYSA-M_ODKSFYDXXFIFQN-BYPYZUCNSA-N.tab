@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 NHGXDBSUJJNIRV-UHFFFAOYSA-M      0.25815    -12.67885   -719517.71194    -13.22266      8.48953     -4.33036    -17.38183      0.00000      0.00000    346.84188    412.61182    277.91849      0.00920      18.0212     22.38877      0.00498    171.02564    201.27367    428.89008    739.19381   1411.34826
+   2 ODKSFYDXXFIFQN-BYPYZUCNSA-N     -3.56600    -36.16932   -380787.76486    -26.59899      5.90953    -22.78697     -9.72155      0.00000      0.00000    216.95926    217.89498    174.20168      0.00302      30.9858     35.52249     15.43571    325.69301    193.76145   1105.05710   1180.14306   4530.38627
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 NHGXDBSUJJNIRV-UHFFFAOYSA-M      0.25815    -12.67885   -719517.71194    -13.22266      8.48953     -4.33036    -17.38183      0.00000     1     1 1.000000 1.000000   -719517.97009   -719490.09541       -27.87468    -40.65863      0.58636    346.84188    412.61182    277.91849      0.00920      18.0212     22.38877      0.00498    171.02564    201.27367    428.89008    739.19381   1411.34826
+   2 ODKSFYDXXFIFQN-BYPYZUCNSA-N     -3.56600    -36.16932   -380787.76486    -26.59899      5.90953    -22.78697     -9.72155      0.00000     2     1 1.000000 1.000000   -380784.19886   -380728.11766       -56.08121    -82.39441      1.59488    216.95926    217.89498    174.20168      0.00302      30.9858     35.52249     15.43571    325.69301    193.76145   1105.05710   1180.14306   4530.38627

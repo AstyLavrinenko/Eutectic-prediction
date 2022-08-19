@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 POKOASTYJWUQJG-UHFFFAOYSA-M      1.07934    -14.22213   -543769.36013     -6.84344      7.76265     -3.01617    -11.58992      0.00000     -1.13352    221.70670    232.54595    171.66820      0.00540      18.8928     19.40611      0.39899    169.40839    153.55196    381.84463    545.00384   1066.75390
+   2 SGMZJAMFUVOLNK-UHFFFAOYSA-M      1.86004    -13.12521   -495309.14920     -5.29994      6.49089     -2.67737     -9.11346      0.00000      0.00000    177.04963    188.15239    139.62451      0.00928      18.3247     15.03954      0.22904    171.97445    120.10604    311.40097    376.89066    713.98177
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 POKOASTYJWUQJG-UHFFFAOYSA-M      1.07934    -14.22213   -543769.36013     -6.84344      7.76265     -3.01617    -11.58992     -1.13352     1     1 1.000000 1.000000   -543770.43947   -543740.77276       -29.66672    -43.28844      0.63519    221.70670    232.54595    171.66820      0.00540      18.8928     19.40611      0.39899    169.40839    153.55196    381.84463    545.00384   1066.75390
+   2 SGMZJAMFUVOLNK-UHFFFAOYSA-M      1.86004    -13.12521   -495309.14920     -5.29994      6.49089     -2.67737     -9.11346      0.00000     2     1 1.000000 1.000000   -495311.00923   -495280.92403       -30.08520    -43.90049      0.64514    177.04963    188.15239    139.62451      0.00928      18.3247     15.03954      0.22904    171.97445    120.10604    311.40097    376.89066    713.98177

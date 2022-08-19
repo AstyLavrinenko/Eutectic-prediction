@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 NNJVILVZKWQKPM-UHFFFAOYSA-N     -4.39895     -5.79561   -459170.75287    -11.63542      4.41852     -2.45734    -13.59660      0.00000     -1.13352    282.59965    320.22431    234.33862     -0.00319       6.5288      9.40672      1.18114    103.56699     86.91459    257.75970    441.97569   1121.91726
+   2 ZQBAKBUEJOMQEX-UHFFFAOYSA-N     -5.14491     -2.81055   -456427.06066     -8.47197      3.16664     -0.06114    -11.57747      0.00000     -2.26703    241.54484    248.63273    214.21790      0.00193       3.3856      0.62382      0.00000     64.63125      7.82627     43.53622     21.41401     45.57833
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 NNJVILVZKWQKPM-UHFFFAOYSA-N     -4.39895     -5.79561   -459170.75287    -11.63542      4.41852     -2.45734    -13.59660     -1.13352     1     1 1.000000 1.000000   -459166.35392   -459153.65556       -12.69836    -17.74035      0.62719    282.59965    320.22431    234.33862     -0.00319       6.5288      9.40672      1.18114    103.56699     86.91459    257.75970    441.97569   1121.91726
+   2 ZQBAKBUEJOMQEX-UHFFFAOYSA-N     -5.14491     -2.81055   -456427.06066     -8.47197      3.16664     -0.06114    -11.57747     -2.26703     2     1 1.000000 1.000000   -456421.91575   -456415.16719        -6.74857     -8.97201      0.54926    241.54484    248.63273    214.21790      0.00193       3.3856      0.62382      0.00000     64.63125      7.82627     43.53622     21.41401     45.57833

@@ -1,0 +1,32 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 323.50 K ; x(1)= 1.0000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 MGSRCZKZVOBKFT-UHFFFAOYSA-N     -4.29055     -0.07277   -291723.42143     -7.80905      2.63511     -0.82965     -9.61451      0.00000     -1.13352    201.88298    208.95081    150.21849     -0.00333       1.8596      0.36848      2.79552     57.59888    -16.80601     75.35064    -69.33868    175.30328
+   2 BXWNKGSJHAJOGX-UHFFFAOYSA-N    -10.79263     -3.45715   -442807.09034    -18.34905      3.42062     -4.09672    -17.67295      0.00000      0.00000    367.51666    376.94989    242.44211     -0.01243       2.2189      3.49038      1.46162     56.63840     21.60757     96.63354     63.19049    241.06724
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 323.50 K ; x(1)= 1.0000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 MGSRCZKZVOBKFT-UHFFFAOYSA-N     -4.29055     -0.07277   -291723.42143     -7.80905      2.63511     -0.82965     -9.61451     -1.13352     1     1 1.000000 1.000000   -291719.13088   -291713.31167        -5.81921     -7.69609      0.51050    201.88298    208.95081    150.21849     -0.00333       1.8596      0.36848      2.79552     57.59888    -16.80601     75.35064    -69.33868    175.30328
+   2 BXWNKGSJHAJOGX-UHFFFAOYSA-N    -10.79263     -3.45715   -442807.09034    -18.34905      3.42062     -4.09672    -17.67295      0.00000     2     1 1.000000 1.000000   -442796.29771   -442790.83737        -5.46034     -7.23147      0.51109    367.51666    376.94989    242.44211     -0.01243       2.2189      3.49038      1.46162     56.63840     21.60757     96.63354     63.19049    241.06724
+
+ Property  job 2 : Mixture - compound properties ;
+ Settings  job 2 : T= 324.40 K ; x(2)= 1.0000 ;
+ Units     job 2 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 MGSRCZKZVOBKFT-UHFFFAOYSA-N     -4.92394     -0.48007   -291724.05482    -10.48497      1.83879     -2.67931     -9.64445      0.00000     -1.13352    201.88298    208.95081    150.21849     -0.00333       1.8596      0.36848      2.79552     57.59888    -16.80601     75.35064    -69.33868    175.30328
+   2 BXWNKGSJHAJOGX-UHFFFAOYSA-N    -10.05330     -2.93028   -442806.35101    -18.91103      2.13648     -2.95604    -18.09147      0.00000      0.00000    367.51666    376.94989    242.44211     -0.01243       2.2189      3.49038      1.46162     56.63840     21.60757     96.63354     63.19049    241.06724
+
+ Property  job 2 : Mixture - molecule/conformer properties ;
+ Settings  job 2 : T= 324.40 K ; x(2)= 1.0000 ;
+ Units     job 2 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 MGSRCZKZVOBKFT-UHFFFAOYSA-N     -4.92394     -0.48007   -291724.05482    -10.48497      1.83879     -2.67931     -9.64445     -1.13352     1     1 1.000000 1.000000   -291719.13088   -291713.31167        -5.81921     -7.69609      0.51050    201.88298    208.95081    150.21849     -0.00333       1.8596      0.36848      2.79552     57.59888    -16.80601     75.35064    -69.33868    175.30328
+   2 BXWNKGSJHAJOGX-UHFFFAOYSA-N    -10.05330     -2.93028   -442806.35101    -18.91103      2.13648     -2.95604    -18.09147      0.00000     2     1 1.000000 1.000000   -442796.29771   -442790.83737        -5.46034     -7.23147      0.51109    367.51666    376.94989    242.44211     -0.01243       2.2189      3.49038      1.46162     56.63840     21.60757     96.63354     63.19049    241.06724

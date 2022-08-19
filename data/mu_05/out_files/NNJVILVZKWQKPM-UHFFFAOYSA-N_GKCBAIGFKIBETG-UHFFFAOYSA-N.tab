@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 NNJVILVZKWQKPM-UHFFFAOYSA-N     -4.46140     -5.84141   -459170.81532    -12.04114      4.31735     -2.72047    -13.63801      0.00000     -1.13352    282.59965    320.22431    234.33862     -0.00319       6.5288      9.40672      1.18114    103.56699     86.91459    257.75970    441.97569   1121.91726
+   2 GKCBAIGFKIBETG-UHFFFAOYSA-N     -6.61941     -6.10223   -531068.92742    -12.81172      4.48916     -1.11427    -16.18662      0.00000     -1.13352    336.96494    353.41690    264.36473     -0.00152       8.1090      3.99444      0.80310     89.63977     38.47245    112.41353    100.14511    240.72208
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 NNJVILVZKWQKPM-UHFFFAOYSA-N     -4.46140     -5.84141   -459170.81532    -12.04114      4.31735     -2.72047    -13.63801     -1.13352     1     1 1.000000 1.000000   -459166.35392   -459153.65556       -12.69836    -17.74035      0.62719    282.59965    320.22431    234.33862     -0.00319       6.5288      9.40672      1.18114    103.56699     86.91459    257.75970    441.97569   1121.91726
+   2 GKCBAIGFKIBETG-UHFFFAOYSA-N     -6.61941     -6.10223   -531068.92742    -12.81172      4.48916     -1.11427    -16.18662     -1.13352     2     1 1.000000 1.000000   -531062.30801   -531051.41203       -10.89598    -15.09799      0.72803    336.96494    353.41690    264.36473     -0.00152       8.1090      3.99444      0.80310     89.63977     38.47245    112.41353    100.14511    240.72208

@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 ZIBGPFATKBEMQZ-UHFFFAOYSA-N     -4.34233     -4.29485   -337684.91943    -12.97368      4.02994     -7.47595     -9.52767      0.00000      0.00000    204.94169    191.51736    150.17366     -0.00106       2.8965      8.25429      3.63419    129.09872     56.84573    240.17192    145.90216    575.10575
+   2 USFRYJRPHFMVBZ-UHFFFAOYSA-M     -3.07094    -19.00229  -1109363.98159    -17.07047      8.03153     -5.97471    -19.12728      0.00000     -4.53407    376.94136    486.39403    388.87130      0.00269      20.0557     18.35493      0.14089    187.31910    150.60035    386.43431    613.08734   1261.75578
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 ZIBGPFATKBEMQZ-UHFFFAOYSA-N     -4.34233     -4.29485   -337684.91943    -12.97368      4.02994     -7.47595     -9.52767      0.00000     1     1 1.000000 1.000000   -337680.57709   -337668.73498       -11.84211    -17.02213      1.03075    204.94169    191.51736    150.17366     -0.00106       2.8965      8.25429      3.63419    129.09872     56.84573    240.17192    145.90216    575.10575
+   2 USFRYJRPHFMVBZ-UHFFFAOYSA-M     -3.07094    -19.00229  -1109363.98159    -17.07047      8.03153     -5.97471    -19.12728     -4.53407     2     1 1.000000 1.000000  -1109360.91065  -1109332.27674       -28.63391    -42.27703      0.96001    376.94136    486.39403    388.87130      0.00269      20.0557     18.35493      0.14089    187.31910    150.60035    386.43431    613.08734   1261.75578

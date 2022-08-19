@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 SPALIFXDWQTXKS-UHFFFAOYSA-M     -3.88032    -14.79652  -2144889.50199    -18.26860      8.13850     -5.65802    -20.74908      0.00000      0.00000    412.28633    515.48505    378.47609      0.00346      19.0657     16.68501      0.03140    155.40050    153.14988    308.03481    460.43547    804.07111
+   2 UNXHWFMMPAWVPI-ZXZARUISSA-N     -4.27279     -6.08107   -288351.37332    -14.79738      3.13533    -11.14280     -6.78991      0.00000      0.00000    150.79999    145.83125    122.12031     -0.00114       5.2632     10.24708      5.75627    147.53344     43.81063    311.42444    140.08037    796.22390
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 SPALIFXDWQTXKS-UHFFFAOYSA-M     -3.88032    -14.79652  -2144889.50199    -18.26860      8.13850     -5.65802    -20.74908      0.00000     1     1 1.000000 1.000000  -2144885.62167  -2144858.99789       -26.62378    -38.96290      0.65025    412.28633    515.48505    378.47609      0.00346      19.0657     16.68501      0.03140    155.40050    153.14988    308.03481    460.43547    804.07111
+   2 UNXHWFMMPAWVPI-ZXZARUISSA-N     -4.27279     -6.08107   -288351.37332    -14.79738      3.13533    -11.14280     -6.78991      0.00000     2     1 1.000000 1.000000   -288347.10053   -288332.75325       -14.34727    -21.25420      1.08743    150.79999    145.83125    122.12031     -0.00114       5.2632     10.24708      5.75627    147.53344     43.81063    311.42444    140.08037    796.22390

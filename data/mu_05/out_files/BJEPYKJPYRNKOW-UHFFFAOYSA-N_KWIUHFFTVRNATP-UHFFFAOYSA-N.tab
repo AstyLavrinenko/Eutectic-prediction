@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 BJEPYKJPYRNKOW-UHFFFAOYSA-N     -6.50438     -8.04755   -334106.38545    -18.97206      2.73943    -15.99621     -5.71528      0.00000      0.00000    151.10220    144.73473    134.08795      0.00442       3.5165      4.79341     10.39653    161.21997    -34.90580    331.82302   -198.82758    880.02123
+   2 KWIUHFFTVRNATP-UHFFFAOYSA-N      0.89607    -11.84038   -252579.94721    -16.68593      4.21576    -14.36419     -6.53751      0.00000      0.00000    154.06116    155.37980    117.14690      0.00390      15.1887     19.62108      0.17470    168.83939    164.17168    427.21045    696.68085   1454.63010
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 BJEPYKJPYRNKOW-UHFFFAOYSA-N     -6.50438     -8.04755   -334106.38545    -18.97206      2.73943    -15.99621     -5.71528      0.00000     1     1 1.000000 1.000000   -334099.88107   -334085.08398       -14.79709    -22.21375      1.18309    151.10220    144.73473    134.08795      0.00442       3.5165      4.79341     10.39653    161.21997    -34.90580    331.82302   -198.82758    880.02123
+   2 KWIUHFFTVRNATP-UHFFFAOYSA-N      0.89607    -11.84038   -252579.94721    -16.68593      4.21576    -14.36419     -6.53751      0.00000     2     1 1.000000 1.000000   -252580.84328   -252553.47398       -27.36930    -40.12416      0.71761    154.06116    155.37980    117.14690      0.00390      15.1887     19.62108      0.17470    168.83939    164.17168    427.21045    696.68085   1454.63010

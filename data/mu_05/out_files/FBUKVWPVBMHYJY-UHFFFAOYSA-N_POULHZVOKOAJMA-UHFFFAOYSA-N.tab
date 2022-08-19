@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 FBUKVWPVBMHYJY-UHFFFAOYSA-N     -5.50876     -1.26740   -316558.36673    -11.96712      2.18029     -3.33613    -10.81128      0.00000      0.00000    230.79160    227.61503    158.23893     -0.00412       2.3840      1.72886      3.06916     66.95680      2.38102    109.22670    -39.19707    259.59416
+   2 POULHZVOKOAJMA-UHFFFAOYSA-N     -7.34824     -2.69220   -390588.07369    -14.84030      2.46198     -3.53994    -13.76234      0.00000      0.00000    290.84020    293.88479    200.31895     -0.00540       2.7845      1.93253      3.03714     68.34142      4.98412    110.64391    -33.13143    263.60731
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 FBUKVWPVBMHYJY-UHFFFAOYSA-N     -5.50876     -1.26740   -316558.36673    -11.96712      2.18029     -3.33613    -10.81128      0.00000     1     1 1.000000 1.000000   -316552.85798   -316546.31040        -6.54758     -8.73383      0.57128    230.79160    227.61503    158.23893     -0.00412       2.3840      1.72886      3.06916     66.95680      2.38102    109.22670    -39.19707    259.59416
+   2 POULHZVOKOAJMA-UHFFFAOYSA-N     -7.34824     -2.69220   -390588.07369    -14.84030      2.46198     -3.53994    -13.76234      0.00000     2     1 1.000000 1.000000   -390580.72544   -390574.07455        -6.65089     -8.88346      0.58049    290.84020    293.88479    200.31895     -0.00540       2.7845      1.93253      3.03714     68.34142      4.98412    110.64391    -33.13143    263.60731

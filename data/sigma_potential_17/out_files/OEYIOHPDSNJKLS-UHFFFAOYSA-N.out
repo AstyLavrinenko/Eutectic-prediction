@@ -1,0 +1,93 @@
+ -----------------------------------------------------------
+ BIOVIA COSMOtherm Version 2019 (build: 19.0.5 [65f0de1d5f])
+ -----------------------------------------------------------
+
+ Copyright (C) 1999-2019, Dassault Systemes BIOVIA corp, all rights reserved
+
+ Job name   : !! Computation of compound SIGMA-PROFILES
+ Job date   : 10/14/2021
+ Job time   : 03:22:29
+ Hostname   : unknown
+ OS type    : unknown
+ Executable : Linux 64-bit
+
+ Reading COSMOtherm parameter file BP_TZVP_C30_1701.ctd from directory /home/nastya/COSMOlogic/COSMOthermX19/COSMOtherm/CTDATA-FILES/OLDPARAM/
+ Info: # COSMOtherm parameter file ./BP_TZVP_C30_1701.ctd for BP-TZVP optimized COSMO files                                                                  
+
+ Reading COSMOtherm license key license.txt from directory /home/nastya/COSMOlogic/COSMOthermX19/licensefiles/
+
+ COSMOtherm license key expiration date 01/16/2022
+ COSMOtherm license key version 19.0
+ Customer : TU Delft, Faculty of Applied Sciences
+ ID       : 107270
+
+ License keys:
+  product                   |    licensed version    | status
+ ------------------------------------------------------------------------------ 
+  COSMOtherm                |          19.0          | active
+  TURBOMOLE                 |          7.3           | active
+ ------------------------------------------------------------------------------ 
+ Sigma potentials for all mixtures will be written to /media/nastya/storage/Project_nastya/sigma_potential_17/OEYIOHPDSNJKLS-UHFFFAOYSA-N.pot
+ 
+ Reading COSMO information for compound 1 conformer 1 from file /media/nastya/storage/Project_nastya/cosmo/OEYIOHPDSNJKLS-UHFFFAOYSA-N.cosmo
+ Note: Gas phase energy file could not be found for compound 1 conformer 1
+ Note: converting Gaussian COSMO-file information of compound 1 conformer 1
+
+
+ --- Compound 1 (OEYIOHPDSNJKLS-UHFFFAOYSA-N) ---
+
+ Compound Information for compound 1 conformer 1 (COSMO file /media/nastya/storage/Project_nastya/cosmo/OEYIOHPDSNJKLS-UHFFFAOYSA-N.cosmo)
+ Atomic weights         : 111111111111111111111
+ E_COSMO+dE             :    -206375.7197 kcal/mol
+ E_gas                  :    -206335.7287 kcal/mol
+ E_COSMO-E_gas+dE       :        -39.9910 kcal/mol
+ E_diel                 :        -57.8724 kcal/mol
+ Averaging corr dE      :          0.5197 kcal/mol
+ Area                   :        154.2953 A^2
+ Volume                 :        154.7109 A^3
+ Molecular Weight       :        104.1713 a.m.u.
+ Total COSMO charge     :         -0.9949 a.u.
+ Dipole moment (t,x,y,z):          0.0000  0.000000  0.000000  0.000000 Debye                            
+ Sigma moments (1-6)    :       -100.0000  1.25E+02 -8.81E+01  1.58E+02 -1.10E+02  2.72E+02              
+ H-bond moment (accept) :          1.5760
+ H-bond moment (donor)  :          3.1554
+ 
+ WARNING: QM computation level of compound 1 conformer 1 could not be determined - it may differ from the QM level of the parameter set.
+ No gas phase energy for compound 1 conformer 1 specified, thus it will be estimated
+
+
+ Total number of processed compounds:    1
+
+
+----------------
+ START job     1
+----------------
+
+
+ Results for mixture 1
+ ---------------------
+ Temperature          :    298.150 K
+ Compound Nr.         :         1
+ Compound             : OEYIOHPDS
+ Mole Fraction        :    1.0000
+
+ WARNING: Mixture    1 is not charge neutral!
+ WARNING: Total molecular charge of mixture =       1.0000
+ WARNING: Relative screening charge of ions in the mixture =      -1.0000
+
+ Compound: 1  (OEYIOHPDSNJKLS-UHFFFAOYSA-N)
+ Chemical potential of the compound in the mixture :        12.71645 kcal/mol
+ Log10(partial pressure [mbar])                    :       -12.41828
+ Free energy of molecule in mix (E_COSMO+dE+Mu)    :   -206363.00322 kcal/mol
+ Total mean interaction energy in the mix (H_int)  :         8.49667 kcal/mol
+ Misfit interaction energy in the mix (H_MF)       :        18.67736 kcal/mol
+ H-Bond interaction energy in the mix (H_HB)       :        -2.79137 kcal/mol
+ VdW interaction energy in the mix (H_vdW)         :        -7.38932 kcal/mol
+
+
+----------------
+ END job       1
+----------------
+
+ Note: Sigma-potentials are tabulated in /media/nastya/storage/Project_nastya/sigma_potential_17/OEYIOHPDSNJKLS-UHFFFAOYSA-N.tab
+

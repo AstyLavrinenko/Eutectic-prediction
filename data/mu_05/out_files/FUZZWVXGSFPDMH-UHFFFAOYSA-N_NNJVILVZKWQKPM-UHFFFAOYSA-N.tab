@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 FUZZWVXGSFPDMH-UHFFFAOYSA-N     -5.01987     -0.81807   -242528.69939    -11.19840      2.31335     -5.62434     -7.88742      0.00000      0.00000    171.44030    162.62139    116.15890 -5.27061E-04       2.6377      1.81658      3.06587     64.48684      3.58001    109.72269    -37.15197    262.82197
+   2 NNJVILVZKWQKPM-UHFFFAOYSA-N     -5.23770     -6.41073   -459171.59162    -16.01604      3.96024     -6.42895    -13.54733      0.00000     -1.13352    282.59965    320.22431    234.33862     -0.00319       6.5288      9.40672      1.18114    103.56699     86.91459    257.75970    441.97569   1121.91726
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 FUZZWVXGSFPDMH-UHFFFAOYSA-N     -5.01987     -0.81807   -242528.69939    -11.19840      2.31335     -5.62434     -7.88742      0.00000     1     1 1.000000 1.000000   -242523.67953   -242517.25575        -6.42378     -8.51949      0.53334    171.44030    162.62139    116.15890 -5.27061E-04       2.6377      1.81658      3.06587     64.48684      3.58001    109.72269    -37.15197    262.82197
+   2 NNJVILVZKWQKPM-UHFFFAOYSA-N     -5.23770     -6.41073   -459171.59162    -16.01604      3.96024     -6.42895    -13.54733     -1.13352     2     1 1.000000 1.000000   -459166.35392   -459153.65556       -12.69836    -17.74035      0.62719    282.59965    320.22431    234.33862     -0.00319       6.5288      9.40672      1.18114    103.56699     86.91459    257.75970    441.97569   1121.91726

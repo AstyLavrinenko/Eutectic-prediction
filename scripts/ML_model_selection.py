@@ -94,8 +94,6 @@ y = df['T_EP']
 x = df.drop(to_drop, axis = 1)
 x_train, x_test = x.iloc[train_idx], x.iloc[test_idx]
 y_train, y_test = y.iloc[train_idx], y.iloc[test_idx]
-y = df['T_EP']
-x = df.drop(to_drop, axis = 1)
 y_train = np.array(y_train).reshape(-1, 1)
 
 #%%Training of classic models

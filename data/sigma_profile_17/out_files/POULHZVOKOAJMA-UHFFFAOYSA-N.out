@@ -1,0 +1,65 @@
+ -----------------------------------------------------------
+ BIOVIA COSMOtherm Version 2019 (build: 19.0.5 [65f0de1d5f])
+ -----------------------------------------------------------
+
+ Copyright (C) 1999-2019, Dassault Systemes BIOVIA corp, all rights reserved
+
+ Job name   : !! Computation of compound SIGMA-PROFILES
+ Job date   : 10/14/2021
+ Job time   : 03:20:22
+ Hostname   : unknown
+ OS type    : unknown
+ Executable : Linux 64-bit
+
+ Reading COSMOtherm parameter file BP_TZVP_C30_1701.ctd from directory /home/nastya/COSMOlogic/COSMOthermX19/COSMOtherm/CTDATA-FILES/OLDPARAM/
+ Info: # COSMOtherm parameter file ./BP_TZVP_C30_1701.ctd for BP-TZVP optimized COSMO files                                                                  
+
+ Reading COSMOtherm license key license.txt from directory /home/nastya/COSMOlogic/COSMOthermX19/licensefiles/
+
+ COSMOtherm license key expiration date 01/16/2022
+ COSMOtherm license key version 19.0
+ Customer : TU Delft, Faculty of Applied Sciences
+ ID       : 107270
+
+ License keys:
+  product                   |    licensed version    | status
+ ------------------------------------------------------------------------------ 
+  COSMOtherm                |          19.0          | active
+  TURBOMOLE                 |          7.3           | active
+ ------------------------------------------------------------------------------ 
+ Sigma profiles for all molecules will be written to /media/nastya/storage/Project_nastya/sigma_profile_17/POULHZVOKOAJMA-UHFFFAOYSA-N.prf
+ 
+ Reading COSMO information for compound 1 conformer 1 from file /media/nastya/storage/Project_nastya/cosmo/POULHZVOKOAJMA-UHFFFAOYSA-N.cosmo
+ Note: converting Gaussian COSMO-file information of compound 1 conformer 1
+
+
+ --- Compound 1 (POULHZVOKOAJMA-UHFFFAOYSA-N) ---
+
+ Compound Information for compound 1 conformer 1 (COSMO file /media/nastya/storage/Project_nastya/cosmo/POULHZVOKOAJMA-UHFFFAOYSA-N.cosmo)
+ Atomic weights         : 11111111111111111111111111111111111111
+ E_COSMO+dE             :   -1634189.7553 kJ/mol
+ E_gas                  :   -1634161.9279 kJ/mol
+ E_COSMO-E_gas+dE       :        -27.8273 kJ/mol
+ E_diel                 :        -37.1684 kJ/mol
+ Averaging corr dE      :          2.4288 kJ/mol
+ Area                   :          2.9084 nm^2
+ Volume                 :          0.2939 nm^3
+ Molecular Weight       :        200.3189 g/mol
+ Total COSMO charge     :       -520.7867 C/mol
+ Dipole moment (t,x,y,z):          2.7845 -1.969186  0.295376 -1.946373 Debye                            
+ Sigma moments (1-6)    :          0.0000  6.83E+01  4.984125  1.11E+02 -3.31E+01  2.64E+02              
+ H-bond moment (accept) :          1.9325
+ H-bond moment (donor)  :          3.0371
+ 
+ WARNING: QM computation level of compound 1 conformer 1 could not be determined - it may differ from the QM level of the parameter set.
+ No gas phase energy for compound 1 conformer 1 specified, thus it will be estimated
+
+
+ Total number of processed compounds:    1
+
+
+ Note: No temperatures / mixtures found in /media/nastya/storage/Project_nastya/sigma_profile_17/POULHZVOKOAJMA-UHFFFAOYSA-N.inp
+ COSMOtherm will terminate
+
+ Note: Sigma-profiles for all compounds are tabulated in /media/nastya/storage/Project_nastya/sigma_profile_17/POULHZVOKOAJMA-UHFFFAOYSA-N.tab
+

@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 HJZLEGIHUQOJBA-UHFFFAOYSA-N     -4.85312     -1.51926   -315801.93327    -11.05666      1.99709     -3.61785     -9.43591      0.00000     -1.13352    201.59906    208.52503    156.22303     -0.00370       2.4655      1.83671      3.02892     65.06918      3.44666    109.63501    -35.73072    261.24001
+   2 NOOLISFMXDJSKH-KXUCPTDWSA-N     -6.28205     -1.12117   -293992.40869    -11.34565      1.62680     -2.87103    -10.10143      0.00000     -1.13352    208.85231    227.84974    156.26617     -0.00507       2.3028      2.62381      1.02771     45.07291     16.46756     74.23760     48.39496    175.71120
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 HJZLEGIHUQOJBA-UHFFFAOYSA-N     -4.85312     -1.51926   -315801.93327    -11.05666      1.99709     -3.61785     -9.43591     -1.13352     1     1 1.000000 1.000000   -315797.08015   -315790.66703        -6.41312     -8.52947      0.55154    201.59906    208.52503    156.22303     -0.00370       2.4655      1.83671      3.02892     65.06918      3.44666    109.63501    -35.73072    261.24001
+   2 NOOLISFMXDJSKH-KXUCPTDWSA-N     -6.28205     -1.12117   -293992.40869    -11.34565      1.62680     -2.87103    -10.10143     -1.13352     2     1 1.000000 1.000000   -293986.12664   -293981.68527        -4.44137     -5.81336      0.41758    208.85231    227.84974    156.26617     -0.00507       2.3028      2.62381      1.02771     45.07291     16.46756     74.23760     48.39496    175.71120

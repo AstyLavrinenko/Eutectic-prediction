@@ -1,0 +1,16 @@
+
+ Property  job 1 : Mixture - compound properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ; Molecular weights in a.m.u. ; Concentrations x : mole fraction ;
+ 
+  Nr Compound                              mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       H_conf       E_Ring         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 XSQUKJJJFZCRTK-UHFFFAOYSA-N     -1.98039     -3.60383   -141433.88885     -7.55418      1.84956     -5.34308     -4.06065      0.00000      0.00000     91.23415     72.48887     60.05544 -9.12964E-04       6.0461      7.92463      4.97110    114.86480     15.61350    250.22000     96.57557    642.45758
+   2 JUGOREOARAHOCO-UHFFFAOYSA-M      1.95143    -15.01120   -591136.60688     -9.99193      6.91394     -5.81696    -11.08891      0.00000      0.00000    229.65822    237.72705    181.66139      0.01036      17.6680     19.85644      0.43979    211.97863    155.61308    424.74965    549.83949   1102.70659
+
+ Property  job 1 : Mixture - molecule/conformer properties ;
+ Settings  job 1 : T= 298.00 K ; x(1)= 0.5000 x(2)= 0.5000 ;
+ Units     job 1 : Energies in kcal/mol ; Pressure in mbar ; Area in A^2 ; Volume in A^3 ;
+ 
+  Nr Molecule/Conformer                    mu     log10(p)   E_COSMO+dE+Mu        H_int         H_MF         H_HB        H_vdW       E_Ring  comp  conf   w(liq)   w(gas)      E_COSMO+dE           E_gas  E_COS+dE-E_gas       E_diel           dE         Area       Volume    MolWeight       Charge     Dipol(t) Moment_HBacc Moment_HBdon  Moment_sig2  Moment_sig3  Moment_sig4  Moment_sig5  Moment_sig6
+   1 XSQUKJJJFZCRTK-UHFFFAOYSA-N     -1.98039     -3.60383   -141433.88885     -7.55418      1.84956     -5.34308     -4.06065      0.00000     1     1 1.000000 1.000000   -141431.90846   -141418.64666       -13.26180    -18.78226      0.70742     91.23415     72.48887     60.05544 -9.12964E-04       6.0461      7.92463      4.97110    114.86480     15.61350    250.22000     96.57557    642.45758
+   2 JUGOREOARAHOCO-UHFFFAOYSA-M      1.95143    -15.01120   -591136.60688     -9.99193      6.91394     -5.81696    -11.08891      0.00000     2     1 1.000000 1.000000   -591138.55831   -591105.81004       -32.74827    -48.14055      0.95011    229.65822    237.72705    181.66139      0.01036      17.6680     19.85644      0.43979    211.97863    155.61308    424.74965    549.83949   1102.70659
