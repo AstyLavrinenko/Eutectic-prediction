@@ -8,6 +8,9 @@ from rdkit.Chem import AllChem
 class compounds:
     def __init__(self, smiles, inchi):
         self.smiles = smiles
+        for smi in range(len(self.smiles)):
+            if self.smiles[smi] == 'C[N+](C)(C)CC(=O)[O-].O':
+                self.smiles[smi] = 'C[N+](C)(C)CC(=O)[O-]'            
         self.inchi = inchi
         self.mols = [Chem.AddHs(Chem.MolFromSmiles(i)) for i in self.smiles]
         for idx_mol, path in enumerate(self.inchi):

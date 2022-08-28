@@ -14,19 +14,19 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler
 #%% Read data
 df = pd.read_csv('../descriptors/mixture/main.csv')
 df_descriptors = add_descriptors.descriptors().add_several(df)
-df_descriptors['ln_x#1'] = np.log(df_descriptors['X#1'])
-df_descriptors['ln_x#2'] = np.log(1-df_descriptors['X#1'])
-df_descriptors['frac'] = df_descriptors['X#1']/(1-df_descriptors['X#1'])
-df_descriptors['T_frac'] = df_descriptors['X#1']*df_descriptors['T#1']+(1-df_descriptors['X#1'])*df_descriptors['T#2']
-df_descriptors['T_frac#1'] = df_descriptors['X#1']*df_descriptors['T#1']
-df_descriptors['T_frac#2'] = (1-df_descriptors['X#1'])*df_descriptors['T#2']
+df['ln_x#1'] = np.log(df['X#1'])
+df['ln_x#2'] = np.log(1-df['X#1'])
+df['frac'] = df['X#1']/(1-df['X#1'])
+df['T_frac'] = df['X#1']*df['T#1']+(1-df['X#1'])*df['T#2']
+df['T_frac#1'] = df['X#1']*df['T#1']
+df['T_frac#2'] = (1-df['X#1'])*df['T#2']
 
 df_descriptors = df_descriptors.dropna(axis=1)
-to_drop = ['Component#1', 'Smiles#1', 'Component#2', 'Smiles#2', 'T_EP', 'Phase_diagram']
+to_drop = ['Component#1', 'Smiles#1', 'Component#2', 'Smiles#2', 'T_EP']
 
-train_idx, test_idx = fit_evaluate.split_by_bins(df_descriptors, 0.2)
-y = df_descriptors['T_EP']
-x = df_descriptors.drop(to_drop, axis = 1)
+train_idx, test_idx = fit_evaluate.split_by_bins(df, 0.2)
+y = df['T_EP']
+x = df.drop(to_drop, axis = 1)
 x_train, x_test = x.iloc[train_idx], x.iloc[test_idx]
 y_train, y_test = y.iloc[train_idx], y.iloc[test_idx]
 

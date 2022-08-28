@@ -52,4 +52,4 @@ path_2 = '../data/mu_05/out_files'
 df_1 = read_mu(path_1, df_init, 2)
 df_1.to_csv('../descriptors/mixture/mu_infinite_dilution.csv', index=False)
 df_2 = read_mu(path_2, df_init, 1)
-df_1.to_csv('../descriptors/mixture/mu_05.csv', index=False)
+df_2.to_csv('../descriptors/mixture/mu_05.csv', index=False)
