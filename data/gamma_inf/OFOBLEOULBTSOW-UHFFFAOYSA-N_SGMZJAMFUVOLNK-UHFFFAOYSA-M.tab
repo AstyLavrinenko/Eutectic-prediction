@@ -1,0 +1,16 @@
+
+ Property  job 1 : Activity coefficients ln(gamma) ;
+ Settings  job 1 : T= 298.15 K ; x(1)= 1.0000 ;
+ Units     job 1 : Concentrations x : mole fraction ;
+ 
+  Nr Compound                             ln(gamma)
+   1 OFOBLEOULBTSOW-UHFFFAOYSA-N         0.00000000
+   2 SGMZJAMFUVOLNK-UHFFFAOYSA-M       -20.58465393
+
+ Property  job 2 : Activity coefficients ln(gamma) ;
+ Settings  job 2 : T= 298.15 K ; x(2)= 1.0000 ;
+ Units     job 2 : Concentrations x : mole fraction ;
+ 
+  Nr Compound                             ln(gamma)
+   1 OFOBLEOULBTSOW-UHFFFAOYSA-N       -10.01421399
+   2 SGMZJAMFUVOLNK-UHFFFAOYSA-M         0.00000000

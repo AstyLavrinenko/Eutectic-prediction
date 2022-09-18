@@ -2,36 +2,19 @@
 Feature selection
 '''
 #%% Imports
-import os
+import fit_evaluate
+import add_descriptors
+
 import pandas as pd
 import numpy as np
 
-from sklearn.model_selection import train_test_split, KFold
+from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
 
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.feature_selection import VarianceThreshold, SelectFromModel, RFE, SelectPercentile, f_regression
 
 #%% Functions
-def split_by_system(df, test_size, to_drop):
-    data_train_new = pd.DataFrame()
-    data_test_new = pd.DataFrame()
-    data = df.drop_duplicates(subset = ['Smiles_1', 'Smiles_2'], keep = 'first').reset_index(drop = True)
-    data_train, data_test = train_test_split(data, test_size = test_size, random_state = 42)
-    for idx in data_train.index:
-        smiles_1 = data_train.loc[idx, 'Smiles_1']
-        smiles_2 = data_train.loc[idx, 'Smiles_2']
-        data_train_new = data_train_new.append(df.iloc[df[(df['Smiles_1'] == smiles_1) & (df['Smiles_2'] == smiles_2)].index])
-    for idx in data_test.index:
-        smiles_1 = data_test.loc[idx, 'Smiles_1']
-        smiles_2 = data_test.loc[idx, 'Smiles_2']
-        data_test_new = data_test_new.append(df.iloc[df[(df['Smiles_1'] == smiles_1) & (df['Smiles_2'] == smiles_2)].index])
-    x_train = data_train_new.drop(to_drop, axis = 1)
-    x_test = data_test_new.drop(to_drop, axis = 1)
-    y_train = data_train_new['T_EP']
-    y_test = data_test_new['T_EP']
-    return x_train, x_test, y_train, y_test
-
 def fit_selector(f_selector, x_train, y_train):
     features = x_train.columns.tolist()
     results = pd.DataFrame({'features': features})
@@ -61,19 +44,22 @@ def fit_selector(f_selector, x_train, y_train):
     return(results)
 
 #%% Read of data
-df = pd.DataFrame()
-for csv in os.listdir('descriptors'):
-    addend = pd.read_csv(f'descriptors/{csv}')
-    df = pd.concat([df, addend], axis = 1)
-df = df.loc[:,~df.columns.duplicated()]
-df = df.drop(['H_1', 'H_2'], axis = 1)
-to_drop = ['Component_1', 'Smiles_1', 'Component_2', 'Smiles_2', 'T_EP']
+df=pd.read_csv('../descriptors/mixture/main.csv')
+df=add_descriptors.descriptors().add_several(df)
+df['ln_x#1'] = np.log(df['X#1'])
+df['ln_x#2'] = np.log(1-df['X#1'])
+df['frac'] = df['X#1']/(1-df['X#1'])
+df['T_frac'] = df['X#1']*df['T#1']+(1-df['X#1'])*df['T#2']
+df['T_frac#1'] = df['X#1']*df['T#1']
+df['T_frac#2'] = (1-df['X#1'])*df['T#2']
+df = df.dropna(axis=1)
+to_drop = ['Component#1', 'Smiles#1', 'Component#2', 'Smiles#2', 'T_EP', 'Phase_diagram']
 
+train_idx, test_idx = fit_evaluate.split_by_bins(df, 0.2)
 y = df['T_EP']
 x = df.drop(to_drop, axis = 1)
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = 0.2, random_state = 42)
-x_train_init = x_train
-y_train = np.array(y_train).reshape(-1, 1)
+x_train, x_test = x.iloc[train_idx], x.iloc[test_idx]
+y_train, y_test = y.iloc[train_idx], y.iloc[test_idx]
 
 #%% Feature selection
 selector = VarianceThreshold()
@@ -105,3 +91,6 @@ threshold = np.mean(selected['sum'])
 for idx in selected.index:
     if selected.loc[idx, 'sum'] >= threshold:
         features_new.append(selected.loc[idx, 'features'])
+with open('../results/features.txt', 'w') as file:
+    for feat in features_new:
+        file.write(feat+'\n')

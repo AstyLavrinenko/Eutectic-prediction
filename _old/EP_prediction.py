@@ -50,7 +50,7 @@ df['frac'] = df['X#1']/(1-df['X#1'])
 df['T_frac'] = df['X#1']*df['T#1']+(1-df['X#1'])*df['T#2']
 df['T_frac#1'] = df['X#1']*df['T#1']
 df['T_frac#2'] = (1-df['X#1'])*df['T#2']
-to_drop = ['Component#1','Smiles#1','Component#2','Smiles#2','T_EP','H#1','H#2','Kf#1','Kf#2','Phase_diagram']
+to_drop = ['Component#1','Smiles#1','Component#2','Smiles#2','T_EP','Phase_diagram']
 features = list(df.drop(to_drop, axis=1).columns)
 #%% Extract the experimental data
 dfs = [p.reset_index(drop=True) for _, p in df.groupby(by = ['Smiles#1', 'Smiles#2'])]
@@ -79,17 +79,24 @@ for idx in data.index:
     x_test['X#1'] = concs
     x_test['Smiles#1'] = smiles_1
     x_test['Smiles#2'] = smiles_2
-    x_test = add_descriptors.descriptors().add_several(x_test)
+    x_test = add_descriptors.descriptors().add_several(x_test, profile=False, potential=False)
+    x_test=add_descriptors.descriptors().add_profile(x_test, conditions={add_descriptors.ratio:'all'}, flag=False)
+    x_test=add_descriptors.descriptors().add_potent(x_test, conditions={add_descriptors.ratio:'all'}, flag=False)
     MolWt1=Descriptors.MolWt(Chem.MolFromSmiles(smiles_1))
     MolWt2=Descriptors.MolWt(Chem.MolFromSmiles(smiles_2))
     x_test['Solubility#1'] = 100*MolWt1*x_test['X#1']/(MolWt2*(1-x_test['X#1']))
     x_test['Solubility#2'] = 100*MolWt2*(1-x_test['X#1'])/(MolWt1*x_test['X#1'])
-    x_test['ln_x#1'] = np.log(x_test['X#1'])
-    x_test['ln_x#2'] = np.log(1-x_test['X#1'])
-    x_test['frac'] = x_test['X#1']/(1-x_test['X#1'])
-    x_test['T_frac'] = x_test['X#1']*x_test['T#1']+(1-x_test['X#1'])*x_test['T#2']
-    x_test['T_frac#1'] = x_test['X#1']*x_test['T#1']
-    x_test['T_frac#2'] = (1-x_test['X#1'])*x_test['T#2']
+    x_test['ln_x1'] = np.log(x_test['X#1'])
+    x_test['ln_x2'] = np.log(1-x_test['X#1'])
+    x_test['MW_per_Vol#1'] = x_test['MolWeight#1']/x_test['Volume#1']
+    x_test['MW_per_Vol#2'] = x_test['MolWeight#2']/x_test['Volume#2']
+    x_test['ValE_per_Area#1'] = x_test['NumValenceElectrons#1']/x_test['Area#1']
+    x_test['ValE_per_Area#2'] = x_test['NumValenceElectrons#2']/x_test['Area#2']
+    pi = 3.14159265358979323846264338328
+    x_test['R#1'] = ((x_test['Area#1']/(4*pi))**0.5 + (3*x_test['Volume#1']/(4*pi))**(1/3))/2
+    x_test['R#2'] = ((x_test['Area#2']/(4*pi))**0.5 + (3*x_test['Volume#2']/(4*pi))**(1/3))/2
+    x_test = x_test.drop(['MolWeight#1','MolWeight#2','Area#1','Area#2','Volume#1','Volume#2',
+                  'NumValenceElectrons#1','NumValenceElectrons#2','H#1','H#2','Kf#1','Kf#2'], axis=1)
     x_test['bins'] = np.digitize(x_test['X#1'], bins=[0]+[round(i,2) for i in np.linspace(0.15,0.85,8)]+[1])
     x_test = x_test.drop(to_drop, axis=1)
     y_pred = fit_model(df.drop(index=df[(df['Smiles#1'] == smiles_1) & (df['Smiles#2'] == smiles_2)].index), x_test, smiles_1, smiles_2, to_drop)
