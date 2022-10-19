@@ -2,14 +2,12 @@
 Prediction of eutectic point
 '''
 #%% Imports
-import os
 import pandas as pd
 import numpy as np
 import add_descriptors
 
 import matplotlib.pyplot as plt
 import seaborn as sns
-from scipy.optimize import curve_fit, minimize_scalar
 
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
@@ -43,15 +41,13 @@ def fit_model(data_train, x_test, smiles_1, smiles_2, to_drop):
     return y_pred    
 #%% Read data
 df=pd.read_csv('../descriptors/mixture/main.csv')
-df=add_descriptors.descriptors().add_several(df)
+df=add_descriptors.descriptors().add_several(df, thermo=True, cluster=False, rdkit_2D=False, mom=True, mu_05=False, mu_inf=False, InfDilut=True, profile=True, potential=True, fp=True)
 df['ln_x#1'] = np.log(df['X#1'])
 df['ln_x#2'] = np.log(1-df['X#1'])
-df['frac'] = df['X#1']/(1-df['X#1'])
-df['T_frac'] = df['X#1']*df['T#1']+(1-df['X#1'])*df['T#2']
-df['T_frac#1'] = df['X#1']*df['T#1']
-df['T_frac#2'] = (1-df['X#1'])*df['T#2']
-to_drop = ['Component#1','Smiles#1','Component#2','Smiles#2','T_EP','Phase_diagram']
-features = list(df.drop(to_drop, axis=1).columns)
+to_drop = ['Component#1','Smiles#1','Component#2','Smiles#2','T_EP','Phase_diagram','H#1','H#2','Kf#1','Kf#2','Solubility#1','Solubility#2']
+features = df.drop(to_drop, axis=1).columns.tolist()
+df.to_csv('../results/df.csv', index=False)
+
 #%% Extract the experimental data
 dfs = [p.reset_index(drop=True) for _, p in df.groupby(by = ['Smiles#1', 'Smiles#2'])]
 keys = []
@@ -79,27 +75,11 @@ for idx in data.index:
     x_test['X#1'] = concs
     x_test['Smiles#1'] = smiles_1
     x_test['Smiles#2'] = smiles_2
-    x_test = add_descriptors.descriptors().add_several(x_test, profile=False, potential=False)
-    x_test=add_descriptors.descriptors().add_profile(x_test, conditions={add_descriptors.ratio:'all'}, flag=False)
-    x_test=add_descriptors.descriptors().add_potent(x_test, conditions={add_descriptors.ratio:'all'}, flag=False)
-    MolWt1=Descriptors.MolWt(Chem.MolFromSmiles(smiles_1))
-    MolWt2=Descriptors.MolWt(Chem.MolFromSmiles(smiles_2))
-    x_test['Solubility#1'] = 100*MolWt1*x_test['X#1']/(MolWt2*(1-x_test['X#1']))
-    x_test['Solubility#2'] = 100*MolWt2*(1-x_test['X#1'])/(MolWt1*x_test['X#1'])
-    x_test['ln_x1'] = np.log(x_test['X#1'])
-    x_test['ln_x2'] = np.log(1-x_test['X#1'])
-    x_test['MW_per_Vol#1'] = x_test['MolWeight#1']/x_test['Volume#1']
-    x_test['MW_per_Vol#2'] = x_test['MolWeight#2']/x_test['Volume#2']
-    x_test['ValE_per_Area#1'] = x_test['NumValenceElectrons#1']/x_test['Area#1']
-    x_test['ValE_per_Area#2'] = x_test['NumValenceElectrons#2']/x_test['Area#2']
-    pi = 3.14159265358979323846264338328
-    x_test['R#1'] = ((x_test['Area#1']/(4*pi))**0.5 + (3*x_test['Volume#1']/(4*pi))**(1/3))/2
-    x_test['R#2'] = ((x_test['Area#2']/(4*pi))**0.5 + (3*x_test['Volume#2']/(4*pi))**(1/3))/2
-    x_test = x_test.drop(['MolWeight#1','MolWeight#2','Area#1','Area#2','Volume#1','Volume#2',
-                  'NumValenceElectrons#1','NumValenceElectrons#2','H#1','H#2','Kf#1','Kf#2'], axis=1)
+    x_test = add_descriptors.descriptors().add_several(x_test, thermo=True, cluster=False, rdkit_2D=False, mom=True, mu_05=False, mu_inf=False, InfDilut=True, profile=True, potential=True, fp=True)
     x_test['bins'] = np.digitize(x_test['X#1'], bins=[0]+[round(i,2) for i in np.linspace(0.15,0.85,8)]+[1])
-    x_test = x_test.drop(to_drop, axis=1)
-    y_pred = fit_model(df.drop(index=df[(df['Smiles#1'] == smiles_1) & (df['Smiles#2'] == smiles_2)].index), x_test, smiles_1, smiles_2, to_drop)
+    x_test['ln_x#1'] = np.log(x_test['X#1'])
+    x_test['ln_x#2'] = np.log(1-x_test['X#1'])
+    y_pred = fit_model(df[to_drop+features].drop(index=df[(df['Smiles#1'] == smiles_1) & (df['Smiles#2'] == smiles_2)].index), x_test[features], smiles_1, smiles_2, to_drop)
     x_test['y_pred'] = y_pred
     y_min = np.min(x_test[(x_test['X#1'] != 0.95) & (x_test['X#1'] != 0.9) & (x_test['X#1'] != 0.05) & (x_test['X#1'] != 0.1)]['y_pred'])
     x_min = x_test.loc[x_test[x_test['y_pred'] == y_min].index[0], 'X#1']
@@ -117,11 +97,13 @@ for idx in data.index:
     plt.xticks(fontsize = 14)
     plt.ylabel('Temperature, K', {'fontsize': 14})
     plt.yticks(fontsize = 14)
-    #plt.ylim([200, 620])
     # Find the eutectic point
     plt.scatter(x_min, y_min, s=70, facecolors='none', edgecolors='red', linewidth = 2, label='Predicted EP')
     plt.legend(fontsize = 14, bbox_to_anchor=(1.04,0.9), loc='upper left', borderaxespad=0)
+    plt.savefig(f'../results/ML_plots/{data.loc[idx, "Component#1"]}#{data.loc[idx, "Component#2"]}')
     plt.show()
 # Calculate accuracy of prediction
-accuracy_T = evaluate_model(np.array(results['T_EP']), np.array(results['T_ML']))    
+accuracy_T = evaluate_model(np.array(results['T_EP']), np.array(results['T_ML']))  
+print(accuracy_T)
 accuracy_X = evaluate_model(np.array(results['X#1']), np.array(results['X_ML']))
+print(accuracy_X) 

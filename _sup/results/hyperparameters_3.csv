@@ -1,0 +1,5 @@
+,best_params,rmse
+RFR,"{'n_estimators': 256, 'min_samples_split': 3, 'min_samples_leaf': 1, 'max_depth': 20, 'max_features': 2, 'bootstrap': False}",30.28266865761188
+GBR,"{'learning_rate': 0.1, 'n_estimators': 122, 'min_samples_split': 8, 'min_samples_leaf': 7, 'max_depth': 17, 'max_features': 4, 'loss': 'absolute_error'}",29.858054305961424
+KNN,"{'n_neighbors': 8, 'weights': 'distance', 'metric': 'minkowski', 'leaf_size': 6, 'algorithm': 'kd_tree'}",31.20538521892655
+SVR,"{'C': 5, 'gamma': 0.9898809106912196, 'kernel': 'rbf'}",28.683774282705862
