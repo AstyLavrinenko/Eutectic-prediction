@@ -27,12 +27,13 @@ groups = x_train.groups
 x_train = x_train.drop(['groups'],axis=1)
 
 #%% Training of ML models
-models = {'RFR': RandomForestRegressor(bootstrap=True, max_depth=4, max_features=8,
-                      min_samples_leaf=10, min_samples_split=20,n_estimators=65, n_jobs=-1), 
-          'GBR': GradientBoostingRegressor(learning_rate=0.1, max_depth=3, max_features=9,
-                          min_samples_leaf=45, min_samples_split=30,n_estimators=80), 
-          'KNN': KNeighborsRegressor(n_neighbors=10,weights='uniform',metric='manhattan'), 
-          'SVR': SVR(C=9, gamma=0.35,kernel='rbf'),
+models = {'RFR': RandomForestRegressor(max_depth=9, max_features=5, min_samples_leaf=0.02,
+                      min_samples_split=0.05, n_estimators=65, n_jobs=-1), 
+          'GBR': GradientBoostingRegressor(learning_rate=0.2, max_depth=6,
+                          max_features=8, min_samples_leaf=0.04,
+                          min_samples_split=0.1, n_estimators=45), 
+          'KNN': KNeighborsRegressor(metric='manhattan', n_neighbors=7), 
+          'SVR': SVR(C=5.0, gamma=1.0),
           'MLR': LinearRegression()
           }
 

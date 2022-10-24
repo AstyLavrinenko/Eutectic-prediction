@@ -27,17 +27,18 @@ def fit_model(x_train, y_train, x_test, model_name):
     x_test = scaler.transform(np.array(x_test))
     
     if model_name == 'GBR':
-        model = GradientBoostingRegressor(learning_rate=0.1, max_depth=3, max_features=9,
-                        min_samples_leaf=45, min_samples_split=30,n_estimators=80)
+        model = GradientBoostingRegressor(learning_rate=0.2, max_depth=6,
+                        max_features=8, min_samples_leaf=0.04,
+                        min_samples_split=0.1, n_estimators=45)
     if model_name == 'RFR':
-        model = RandomForestRegressor(bootstrap=True, max_depth=4, max_features=8,
-                              min_samples_leaf=10, min_samples_split=20,n_estimators=65, n_jobs=-1)
+        model = RandomForestRegressor(max_depth=9, max_features=5, min_samples_leaf=0.02,
+                              min_samples_split=0.05, n_estimators=65, n_jobs=-1)
     if model_name == 'KNN':
-        model = KNeighborsRegressor(n_neighbors=10,weights='uniform',metric='manhattan')
+        model = KNeighborsRegressor(metric='manhattan', n_neighbors=7)
     if model_name == 'SVR':
         scaler_y = StandardScaler()        
         y_train_new = np.ravel(scaler_y.fit_transform(y_train_new))
-        model = SVR(C=9, gamma=0.35,kernel='rbf')
+        model = SVR(C=5.0, gamma=1.0)
     model.fit(x_train_new,np.ravel(y_train_new))
     y_pred = model.predict(x_test)
     if model_name == 'SVR':

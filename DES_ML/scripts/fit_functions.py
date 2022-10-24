@@ -7,6 +7,7 @@ from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error, m
 from sklearn.model_selection import GroupShuffleSplit
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 def custom_cv(x,y,groups,n_splits,test_size):
@@ -32,10 +33,11 @@ def evaluate_model(model, x, y, scaler_y=False,results=False, ML_name=None):
     mae = mean_absolute_error(y, y_pred)
     rmse = mean_squared_error(y, y_pred, squared = False)
     mape = 100*mean_absolute_percentage_error(y, y_pred)
+    sns.set_palette("Set2")
     if results:
         plt.figure(figsize=(6,6))
-        plt.plot(y,y,color='navy', linewidth = 2)
-        plt.scatter(y_pred,y,s=50,color='maroon')
+        plt.plot(y,y,linewidth = 2,color='gray')
+        plt.scatter(y_pred,y,s=50)
         plt.title(f'{names[ML_name]}', {'fontsize': 14})
         plt.xlabel('Predicted temperature, K', {'fontsize': 14})
         plt.xticks([250,350,450,550],fontsize = 14)
