@@ -1,8 +1,0 @@
-,best_params
-GBR,"GradientBoostingRegressor(learning_rate=0.2, max_depth=6,
-                          max_features=8, min_samples_leaf=0.04,
-                          min_samples_split=0.1, n_estimators=45)"
-RFR,"RandomForestRegressor(max_depth=9, max_features=5, min_samples_leaf=0.02,
-                      min_samples_split=0.05, n_estimators=65, n_jobs=-1)"
-KNN,"KNeighborsRegressor(metric='manhattan', n_neighbors=7)"
-SVR,"SVR(C=5.0, gamma=1.0)"
