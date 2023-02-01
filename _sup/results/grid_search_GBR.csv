@@ -1,3 +1,0 @@
-,best_params,rmse
-GBR,"GradientBoostingRegressor(learning_rate=0.25, max_depth=4, max_features=6,
-                          min_samples_leaf=0.1, min_samples_split=0.2)",-34.45307199820966

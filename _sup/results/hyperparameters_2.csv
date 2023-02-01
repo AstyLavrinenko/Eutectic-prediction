@@ -1,5 +1,0 @@
-,best_params,rmse
-RFR,"{'n_estimators': 197, 'min_samples_split': 3, 'min_samples_leaf': 1, 'max_depth': 23, 'max_features': 2, 'criterion': False}",30.21543345373694
-GBR,"{'learning_rate': 0.15000000000000002, 'n_estimators': 438, 'min_samples_split': 6, 'min_samples_leaf': 3, 'max_depth': 47, 'max_features': 9, 'loss': 'absolute_error'}",29.907034244173804
-KNN,"{'n_neighbors': 11, 'weights': 'distance', 'metric': 'manhattan', 'leaf_size': 33, 'algorithm': 'ball_tree'}",31.12883181235087
-SVR,"{'C': 5, 'gamma': 0.9878791747064531, 'kernel': 'rbf'}",28.684243401401204

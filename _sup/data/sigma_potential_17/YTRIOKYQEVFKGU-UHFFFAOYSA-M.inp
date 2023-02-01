@@ -1,5 +1,0 @@
-ctd = BP_TZVP_C30_1701.ctd cdir=/home/nastya/COSMOlogic/COSMOthermX19/COSMOtherm/CTDATA-FILES/OLDPARAM ldir=/home/nastya/COSMOlogic/COSMOthermX19/licensefiles fdir=/media/nastya/storage/Project_nastya/cosmo     
-notempty wtln ehfile spot spotc        
-!! Computation of compound SIGMA-PROFILES  
-f = YTRIOKYQEVFKGU-UHFFFAOYSA-M
-tc=25 x_pure=1 IGNORE_CHARGE 
