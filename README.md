@@ -13,4 +13,4 @@ There are dataset, generated descriptors, feature selection and optimisation alg
 Such descriptors as sigma_moments, sigma_profiles, and infinite_dilution were calculated using COSMOtherm software.
 
 # Citation
-A.K. Lavrinenko, I.Yu. Chernyshov, N.S. Serov, Machine Learning Approach for the Prediction of Eutectic Temperatures for Metal-Free Deep Eutectic Solvents
+A.K. Lavrinenko, I.Yu. Chernyshov, E.A. Pidko , Machine Learning Approach for the Prediction of Eutectic Temperatures for Metal-Free Deep Eutectic Solvents
