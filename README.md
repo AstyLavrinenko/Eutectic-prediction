@@ -12,5 +12,5 @@ The data that support the findings of this study are openly available in this re
 There are dataset, generated descriptors, feature selection and optimisation algorithms, and developed machine learning model which were used in the project.
 Such descriptors as sigma_moments, sigma_profiles, and infinite_dilution were calculated using COSMOtherm software.
 
-# Citation
+# Reference
 A.K. Lavrinenko, I.Yu. Chernyshov, E.A. Pidko, Machine Learning Approach for the Prediction of Eutectic Temperatures for Metal-Free Deep Eutectic Solvents (submitted)
