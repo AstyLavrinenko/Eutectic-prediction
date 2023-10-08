@@ -3,7 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Machine Learning Approach for the Prediction of Eutectic
+  Machine Learning Approach for the Prediction of Eutectic  
   Temperatures for Metal-Free Deep Eutectic Solvents
 message: >-
   If you use this software, please cite it using the
@@ -16,11 +16,11 @@ authors:
   - given-names: Ivan Yu.
     family-names: Chernyshov
     orcid: 'https://orcid.org/0000-0002-4452-2025'
-  - given-names: Evgeny A. 
-    family-names: Pidko 
-	orcid: 'https://orcid.org/0000-0001-9242-9901'
+  - given-names: Evgeny A.
+    family-names: Pidko
+    orcid: 'https://orcid.org/0000-0001-9242-9901'
 identifiers:
-  - type: DOI
+  - type: doi
     value: 10.1021/acssuschemeng.3c05207
 repository-code: 'https://github.com/AstyLavrinenko/Eutectic-prediction'
 abstract: >-
@@ -50,3 +50,4 @@ keywords:
   - solid-liquid equilibrium
   - melting point prediction
 license: MIT
+date-released: '2023-02-01'
